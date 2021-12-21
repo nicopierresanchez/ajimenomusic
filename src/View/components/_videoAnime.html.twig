@@ -1,0 +1,43 @@
+<div class="select-container">
+    <a class="select" href="/topAnime">Anime</a>
+    <a class="select" href="/top90">90'</a>
+    <a class="select" href="/top50">Top50</a>
+</div>
+<div class="videos">
+
+    <div class="video1">
+        <div class="title1">
+
+            {{ musics[0]['name']|slice(0, 35) }}...
+
+        </div>
+        <iframe class="yt-1" width="700" height="400" src="{{ musics[0]['url'] }};showinfo=0" allowfullscreen></iframe>
+        <div class="input">
+            <form class="form1" action="topAnime" method="POST">
+                <input type="text" style="display: none;" name="id" value="{{ musics[0]['id'] }}">
+                <input type="text" style="display: none;" name="title" value="{{ musics[0]['name'] }}">
+                <input type="text" style="display: none;" name="url" value="{{ musics[0]['url'] }}">
+                <input type="submit" class='submit1' id='submit' value="vote">
+            </form>
+        </div>
+    </div>
+    <img class="versus-video" src="/assets/images/logo2.png">
+    <div class="video2">
+        <div class="title2">
+
+            {{ musics[1]['name']|slice(0, 35) }}...
+
+        </div>
+        <iframe class="yt-2" width="700" height="400" src="{{ musics[1]['url'] }}" allowfullscreen></iframe>
+        <div class="input">
+            <form class="form2" action="topAnime" method="POST">
+                <input type="text" style="display: none;" name="id" value="{{ musics[1]['id'] }}">
+                <input type="text" style="display: none;" name="title" value="{{ musics[1]['name'] }}">
+                <input type="text" style="display: none;" name="url" value="{{ musics[1]['url'] }}">
+                <input type="submit" class='submit2' id='submit' value="vote">
+
+            </form>
+        </div>
+    </div>
+</div>
+

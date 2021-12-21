@@ -1,0 +1,187 @@
+.select-container {
+    padding: 1rem;
+    align-self: center;
+    width: 100%;
+    height: 5rem;
+    align-content: space-between;
+    text-align: center;
+    align-items: center;
+}
+
+.select {
+    font-size: 1.5rem;
+    color: black;
+    margin: 0 1rem 0 1rem;
+    text-decoration: none;
+    padding: 0.5rem 1rem 0.5rem 1rem;
+    border-radius: 10px;
+    background: white;
+}
+
+.select:hover {
+    color: white;
+    background: black;
+    box-shadow: grey 5px 5px 10px 1px;
+}
+
+.videos {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 100%;
+    height: 100%;
+    gap: 3rem;
+    align-items: center;
+    text-align: center;
+    margin-top: 5rem;
+}
+
+* {
+    overflow: hidden;
+}
+
+.videos div button {
+    margin-top: 5rem;
+}
+
+.video1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    position: absolute;
+    top: 20%;
+    left: -50vw;
+    width: calc(50% - 1.5rem);
+    margin-left: 3rem;
+    transition: 1s;
+    animation: video-enter 0.5s;
+    animation-fill-mode: forwards;
+    animation-timing-function: linear;
+    animation-delay: 1s;
+}
+
+.video2 {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: space-evenly;
+    position: absolute;
+    top: 20%;
+    right: -50vw;
+    width: calc(50% - 1.5rem);
+    margin-right: 3rem;
+    animation: video-exit 0.5s;
+    animation-fill-mode: forwards;
+    animation-timing-function: linear;
+    animation-delay: 1s;
+}
+
+.title1,
+.title2 {
+    min-height: 6rem;
+    font-size: 2rem;
+    padding: 1rem 3rem 1rem 3rem;
+    text-align: center;
+    overflow: hidden;
+    color: white;
+}
+
+.yt-1 {
+    align-self: center;
+    border: none;
+    box-shadow: grey 0 0 10px 0.5rem;
+    border-radius: 10px;
+}
+
+.yt-2 {
+    align-self: center;
+    border: none;
+    box-shadow: grey 0 0 10px 0.5rem;
+    border-radius: 10px;
+}
+
+.form2,
+.form1 {
+    height: 10rem;
+}
+
+.submit1 {
+    margin-top: 3rem;
+    background: white;
+    width: 5rem;
+    height: 5rem;
+    border-radius: 50%;
+    cursor: pointer;
+    border: none;
+    font-size: 2rem;
+    transition: box-shadow 1s, color 1s, background 1s, transform 1s;
+}
+
+.submit1:hover {
+    background: #2A628F;
+    color: white;
+    transform: rotate(720deg);
+    box-shadow: #3E92CC 0 0 10px 0.5rem;
+}
+
+.submit2 {
+    margin-top: 3rem;
+    background: white;
+    width: 5rem;
+    height: 5rem;
+    border-radius: 50%;
+    cursor: pointer;
+    border: none;
+    font-size: 2rem;
+    transition: box-shadow 1s, color 1s, background 1s, transform 1s;
+}
+
+.submit2:hover {
+    background: #B10F2E;
+    color: white;
+    transform: rotate(720deg);
+    box-shadow: #EB1E43 0 0 10px 0.5rem;
+}
+
+.versus-video {
+    top: 44%;
+    position: absolute;
+    opacity: 0;
+    width: 10rem;
+    border: none;
+    animation: versus-middle 1.5s;
+    animation-fill-mode: forwards;
+    animation-timing-function: linear;
+    animation-delay: 2s;
+}
+
+.invert {
+    filter: invert(100%);
+}
+
+@keyframes video-enter {
+    from {
+        transform: translateX(0vw)
+    }
+    to {
+        transform: translateX(47vw)
+    }
+}
+
+@keyframes video-exit {
+    from {
+        transform: translateX(0vw)
+    }
+    to {
+        transform: translateX(-47vw)
+    }
+}
+
+@keyframes versus-middle {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 100%;
+    }
+}

@@ -1,0 +1,246 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "X-1to4SGLcRdBleFqf52wui98nc",
+  "nextPageToken": "EAAaBlBUOkNBVQ",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "hXiFXDFm8ATCmhN8axQATkKRE10",
+      "id": "UEwwNUUxNjIzMTExQTlBODYwLjY5NDdCOTU0RDFCODA1RTc",
+      "snippet": {
+        "publishedAt": "2012-03-01T20:40:01Z",
+        "channelId": "UCrGoRAv0rymeCElSIKTU1-g",
+        "title": "Taylor Swift - You Belong With Me",
+        "description": "Music video by Taylor Swift performing You Belong With Me. (C) 2009 Big Machine Records, LLC\n \n►Exclusive Merch: https://store.taylorswift.com\n \n►Follow Taylor Swift Online\nInstagram: http://www.instagram.com/taylorswift\nFacebook: http://www.facebook.com/taylorswift\nTumblr: http://taylorswift.tumblr.com\nTwitter: http://www.twitter.com/taylorswift13\nWebsite: http://www.taylorswift.com\n \n►Follow Taylor Nation Online\nInstagram: http://www.instagram.com/taylornation\nTumblr: http://taylornation.tumblr.com\nTwitter: http://www.twitter.com/taylornation13",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VuNIsY6JdUw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VuNIsY6JdUw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VuNIsY6JdUw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VuNIsY6JdUw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VuNIsY6JdUw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Katie Elizabeth",
+        "playlistId": "PL05E1623111A9A860",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VuNIsY6JdUw"
+        },
+        "videoOwnerChannelTitle": "TaylorSwiftVEVO",
+        "videoOwnerChannelId": "UCANLZYMidaCbLQFWXBC95Jg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "N_OL5NQEp70F2FmuPL108ibX5Nw",
+      "id": "UEwwNUUxNjIzMTExQTlBODYwLjIzQjI4MTI0RkMyOTM2MzE",
+      "snippet": {
+        "publishedAt": "2012-03-01T20:29:57Z",
+        "channelId": "UCrGoRAv0rymeCElSIKTU1-g",
+        "title": "Maroon 5 - She Will Be Loved (Official Music Video)",
+        "description": "REMASTERED IN HD!\nSign up for updates: http://smarturl.it/Maroon5.News\nMusic video by Maroon 5 performing She Will Be Loved. (C) 2004 OctoScope Music, LLC\n\n#Remastered",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nIjVuRTm-dc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nIjVuRTm-dc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nIjVuRTm-dc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nIjVuRTm-dc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nIjVuRTm-dc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Katie Elizabeth",
+        "playlistId": "PL05E1623111A9A860",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nIjVuRTm-dc"
+        },
+        "videoOwnerChannelTitle": "Maroon5VEVO",
+        "videoOwnerChannelId": "UCN1hnUccO4FD5WfM7ithXaw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pLuAgP5KedXKpvrUPwpuo7HOFig",
+      "id": "UEwwNUUxNjIzMTExQTlBODYwLkQ5NjlBNDY3ODQzMUFGRDc",
+      "snippet": {
+        "publishedAt": "2012-03-01T20:29:11Z",
+        "channelId": "UCrGoRAv0rymeCElSIKTU1-g",
+        "title": "Katy Perry - Hot N Cold (Official)",
+        "description": "Katy Perry's new album \"Smile\" out August 28 - http://katy.to/smileID\n\nGet “Hot N Cold” from Katy Perry’s ‘One of the Boys’’: http://katy.to/OneOfTheBoys\n\nKaty Perry Complete Collection on Spotify: http://katy.to/SpotifyCompleteYD\nKaty Perry Essentials on Apple Music: http://katy.to/AMEssentialsYD\nWatch your favorite Katy videos on YouTube: http://katy.to/MusicVideosYD\n\nFollow Katy Perry:\nWebsite: http://katy.to/WebsiteYD\nInstagram: http://katy.to/InstagramYD\nTwitter: http://katy.to/TwitterYD\nFacebook: http://katy.to/FacebookYD\n\nDirected by Alan Ferguson & Produced by Melissa Larson\n\n\nLyrics:\nYou change your mind\nLike a girl changes clothes\nYeah you P.M.S.\nLike a bitch\nI would know\nAnd you over-think\nAlways speak cryptically\nI should know\nThat you’re no good for me\n \n(Chorus)\n‘Cause you’re hot then you’re cold\nYou’re yes then you’re no\nYou’re in then you’re out\nYou’re up then you’re down\nYou’re wrong when it’s right\nIt’s black and it’s white\nWe fight we break up\nWe kiss we make up\n \nYou, you don’t really wanna stay no\nYou, but you don’t really wanna go o\nYou’re hot then you’re cold\nYou’re yes then you’re no\nYou’re in then you’re out\nYou’re up then you’re down\n \nWe used to be\nJust like twins\nSo in sync\nThe same energy\nNow’s a dead battery\nUsed to laugh\nAbout nothing\nNow you’re plain boring\nI should know\nThat you’re not gonna change\n \n(Chorus)\n‘Cause you’re hot then you’re cold\nYou’re yes then you’re no\nYou’re in then you’re out\nYou’re up then you’re down\nYou’re wrong when it’s right\nIt’s black and it’s white\nWe fight we break up\nWe kiss we make up\n\nSomeone call the doctor\nGot a case of love bipolar\nStuck on a roller coaster\nAnd I can’t get off this ride…\nYou change your mind\nLike a girl changes clothes\n \n(Chorus)\n‘Cause you’re hot then you’re cold\nYou’re yes then you’re no\nYou’re in then you’re out\nYou’re up then you’re down\nYou’re wrong when it’s right\nIt’s black and it’s white\nWe fight we break up\nWe kiss we make up\n\n\nMusic video by Katy Perry performing Hot N Cold. (C) 2008 Capitol Records, LLC",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kTHNpusq654/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kTHNpusq654/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kTHNpusq654/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kTHNpusq654/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kTHNpusq654/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Katie Elizabeth",
+        "playlistId": "PL05E1623111A9A860",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kTHNpusq654"
+        },
+        "videoOwnerChannelTitle": "KatyPerryVEVO",
+        "videoOwnerChannelId": "UC-8Q-hLdECwQmaWNwXitYDw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "DUxvN_FBAUUaKTvhub9wH1KKAdY",
+      "id": "UEwwNUUxNjIzMTExQTlBODYwLkZFRUZCNEUxQkY2QUE4QUU",
+      "snippet": {
+        "publishedAt": "2020-06-21T17:12:49Z",
+        "channelId": "UCrGoRAv0rymeCElSIKTU1-g",
+        "title": "SEADI - EU e TU de boa",
+        "description": "▶Spotify: https://open.spotify.com/artist/2aRssjiwjBG8Lb7kbXoxoY?si=9eWNWRoTQRm9EjZx0u0jVg\n▶ Instagram: https://www.instagram.com/seadioficial/\n▶ Facebook: https://www.facebook.com/seadioficial\n▶ Twitter: https://twitter.com/seadi\n\nProdução da música (production studio): Head Media\nProdução do clipe (Videoclip Production): Selo Nova Dose\nEdição do clipe (Videoclipe Edition): Caue Tarnowski e Fernanda Dearo\nApoio (Supporting Brand): T-Flow\nAssessoria de Imprensa (Press Office): Marcia Stival Assessoria\nSelo: Nova Dose\nhttps://www.seadi.com.br/\n\nLETRA:\n\nHoje achei o teu bilhete na minha calça \nQue surpresa que só tu faz\nQuando a gente fica junto \nSó curtindo\nÉ tão bom \nFica tudo em paz\n\nA gente se entende\nÉ tão diferente\nA gente nem mostra na rede\nO que a gente sente só fica pra' gente\nNinguém mais precisa saber\nMesmo estando junto há um tempo nunca é igual\nE  quando eu vou embora, é foda\nSempre quero mais\n\nEm breve eu chego\nE te encho de beijo\nÉ nisso que eu penso\nEu e tu de boa\nMais ninguém\nE a nossa \"vibe\"\nsó a gente sabe\nÉ tão de verdade\nEu e tu de boa\nMais ninguém\n\nUm dia inteiro é pouco \npra curtir um ao outro\nQuando a gente tá perto\no tempo voa, é certo\n\nA gente se entende\nÉ tão diferente\nA gente nem mostra na rede\nO que a gente sente só fica pra' gente\nNinguém mais precisa saber\nMesmo estando junto há um tempo nunca é igual\nE  quando eu vou embora, é foda\nSempre quero mais\n\nEm breve eu chego\nE te encho de beijo\nÉ nisso que eu penso\nEu e tu de boa\nMais ninguém\nE a nossa \"vibe\"\nsó a gente sabe\nÉ tão de verdade\nEu e tu de boa\nMais ninguém\n\nEm breve eu chego\nE te encho de beijo\n\nEm breve eu chego\nE te encho de beijo\nÉ nisso que eu penso\nEu e tu de boa\nMais ninguém\nE a nossa \"vibe\"\nsó a gente sabe\nÉ tão de verdade\nEu e tu de boa\nMais ninguém",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WUGXlAQ5CR4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WUGXlAQ5CR4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WUGXlAQ5CR4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WUGXlAQ5CR4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WUGXlAQ5CR4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Katie Elizabeth",
+        "playlistId": "PL05E1623111A9A860",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WUGXlAQ5CR4"
+        },
+        "videoOwnerChannelTitle": "Seadi",
+        "videoOwnerChannelId": "UCP_wBVOJHqPITyT5xCVJWMA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rAAvD6OyNOv3cXY0OS-0JkYnnkI",
+      "id": "UEwwNUUxNjIzMTExQTlBODYwLjIxNjZEQjM2ODQ2MDE3MEI",
+      "snippet": {
+        "publishedAt": "2012-03-01T20:55:32Z",
+        "channelId": "UCrGoRAv0rymeCElSIKTU1-g",
+        "title": "Beyoncé - Halo",
+        "description": "Beyoncé's official video for 'Halo'. Click to listen to Beyoncé on Spotify: http://smarturl.it/BeyonceSpot?IQid=B...\n\nAs featured on I Am... Sasha Fierce. Click to buy the track or album via iTunes: http://smarturl.it/BeyIASFiTunes?IQid...\nGoogle Play: http://smarturl.it/BeyHaloPlay?IQid=B...\nAmazon: http://smarturl.it/BeyIASFamz?IQid=Be...\n\nMore from Beyoncé\nFlaws And All: https://youtu.be/iK9Iio7WgaI\nDance For You: https://youtu.be/PGc9n6BiWXA\nFreakum Dress: https://youtu.be/ArDXxTsJJoo\n\nFollow Beyoncé\nWebsite: http://www.beyonce.com/\nFacebook: https://www.facebook.com/beyonce\nTwitter: https://twitter.com/beyonce\nInstagram: https://instagram.com/beyonce/\n\nSubscribe to Beyoncé on YouTube: http://smarturl.it/BeyonceSub?IQid=Be...\n\nMore great Global Hits videos here: http://smarturl.it/GlobalHits?IQid=Be...\n\n---------\n\nLyrics:\n\nRemember those walls I built?\nWell, baby they're tumbling down\nAnd they didn't even put up a fight\nThey didn't even make a sound\nI found a way to let you in\nBut, I never really had a doubt\nStanding in the light of your halo\nI got my angel now\n\nIt's like I've been awakened\nEvery rule I had you breakin'\nIt's the risk that I'm taking\nI ain't never gonna shut you out!\n\nEverywhere I'm looking now\nI'm surrounded by your embrace\nBaby, I can see your halo\nYou know you're my saving grace\nYou're everything I need and more\nIt's written all over your face\nBaby, I can feel your halo\nPray it won't fade away",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bnVUHWCynig/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bnVUHWCynig/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bnVUHWCynig/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bnVUHWCynig/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bnVUHWCynig/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Katie Elizabeth",
+        "playlistId": "PL05E1623111A9A860",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "bnVUHWCynig"
+        },
+        "videoOwnerChannelTitle": "BeyoncéVEVO",
+        "videoOwnerChannelId": "UC9zX2xZIJ4cnwRsgBpHGvMg"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 185,
+    "resultsPerPage": 5
+  }
+}

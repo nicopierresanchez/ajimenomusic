@@ -1,0 +1,41 @@
+<div class="div-yt-1">
+    <div class="music-name">
+        <div>🥇 - {{ videos[0].name|slice(0, 20) }}...</div>
+        <div>Points: {{ videos[0].points }}</div>
+    </div>
+    <iframe class="yt-1" width="600" height="350" src="{{ videos[0]['url'] }}" allowfullscreen></iframe>
+</div>
+
+<div class="yt-1-2">
+    <div class="div-yt-2">
+        <div class="music-name">
+            <div>🥈 - {{ videos[1].name|slice(0, 20) }}...</div>
+            <div>Points: {{ videos[1].points }}</div>
+        </div>
+        <iframe class="yt-2" width="500" height="300" src="{{ videos[1]['url'] }}" allowfullscreen></iframe>
+    </div>
+    <div class="div-yt-3">
+        <div class="music-name">
+            <div>🥉 - {{ videos[2].name|slice(0, 20) }}...</div>
+            <div>Points: {{ videos[2].points }}</div>
+        </div>
+        <iframe class="yt-3" width="500" height="300" src="{{ videos[2]['url'] }}" allowfullscreen></iframe>
+    </div>
+</div>
+
+{% for i in 3..29 %}
+    <a href="{{ videos[i].url }}" class="classement">
+        <div class="place">Rang #{{ i+1 }}</div>
+        <div class="music-name-classement">{{ videos[i].name }}</div>
+        <p class="music-points">Points: {{ videos[i].points }}</p>
+    </a>
+{% endfor %}
+
+{% if validate is not null %}
+    <div class="validate-title">Tes votes</div>
+    <div class="valid-music">
+        {% for valid in validate %}
+            <a href="{{ valid['url'] }}" class="valid-music-item">{{ valid['title'] }}</a>
+        {% endfor %}
+    </div>
+{% endif %}

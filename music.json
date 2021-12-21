@@ -1,0 +1,2265 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "Y_tHMdo0yG6g7VxOBww9k1AMwvE",
+  "nextPageToken": "EAAaBlBUOkNESQ",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "XOPMFTfFH6Ga0pBtf-WXyhyuYxs",
+      "id": "UExjQ1FKdVB3eXlhM3V4cmk3WkNpRERqTXdhYVZYejdESy45NTBGQjA2RDUzMTJFM0VF",
+      "snippet": {
+        "publishedAt": "2019-08-19T13:27:49Z",
+        "channelId": "UCxCTP6k0VhJjpZISsj1QaSw",
+        "title": "Hunter X Hunter - Opening 1 | Departure!",
+        "description": "Artist: Masatoshi Ono\nSong: Departure!\nWatch Hunter X Hunter on Crunchyroll! https://got.cr/Watch-HXHOPED\n\nCrunchyroll Collection brings you the latest clips, OPs and more from your favorite anime! Don't have time for a full episode but want to catch up on the best scenes? We've got them!\n\nFREE 14-DAY CRUNCHYROLL TRIAL 🌟 https://got.cr/14DaysFree\n\n#hunterxhunter #masatoshiono #departure",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/faqmNf_fZlE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/faqmNf_fZlE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/faqmNf_fZlE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/faqmNf_fZlE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/faqmNf_fZlE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Le Regard Otaku",
+        "playlistId": "PLcCQJuPwyya3uxri7ZCiDDjMwaaVXz7DK",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "faqmNf_fZlE"
+        },
+        "videoOwnerChannelTitle": "Crunchyroll Collection",
+        "videoOwnerChannelId": "UC6pGDc4bFGD1_36IKv3FnYg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "suba8jv4QARuzBrd4T11_YfGnlc",
+      "id": "UExjQ1FKdVB3eXlhM3V4cmk3WkNpRERqTXdhYVZYejdESy5FRkIzNkJFQkQ3RkUwOUY5",
+      "snippet": {
+        "publishedAt": "2020-10-05T11:11:41Z",
+        "channelId": "UCxCTP6k0VhJjpZISsj1QaSw",
+        "title": "Fire Force – Opening Theme – Inferno",
+        "description": "Subscribe to Funimation: https://weareani.me/YTSubscribe\nStart streaming anime subs and dubs: https://weareani.me/trial\n\"Inferno (インフェルノ)\" by Mrs.GREEN APPLE\n\nWatch Fire Force dubbed on Funimation! https://funi.to/33hrKpT  \n_______________________________\n \nTokyo is burning, and citizens are mysteriously suffering from spontaneous human combustion throughout the city! Responsible for snuffing out this inferno is the Fire Force, and Shinra is ready to join their fight. Now, as part of Company 8, he’ll use his devil’s footprints to help keep the city from turning to ash! But his past and a burning secret behind the scenes could set everything ablaze.\n\nSubscribe:\nhttps://funi.to/2TSAcpy\n\nWatch More Videos Like This:\nhttps://funi.to/2TXz9ES\n\nLearn More:\nWebsite: https://funi.to/2TXKJQn\nTwitter: https://funi.to/2TZi6C5\nFacebook: https://funi.to/2TTdkq0\nInstagram: https://funi.to/2TWrbM4",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JBqxVX_LXvk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JBqxVX_LXvk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JBqxVX_LXvk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JBqxVX_LXvk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JBqxVX_LXvk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Le Regard Otaku",
+        "playlistId": "PLcCQJuPwyya3uxri7ZCiDDjMwaaVXz7DK",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JBqxVX_LXvk"
+        },
+        "videoOwnerChannelTitle": "Funimation",
+        "videoOwnerChannelId": "UCVi2lI40LetxLBKn-rtWC3A"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cuC3UPBZ8dF52Eq8vtNBPI72LgI",
+      "id": "UExjQ1FKdVB3eXlhM3V4cmk3WkNpRERqTXdhYVZYejdESy4xQzNEQjU3NzFFNzQ1M0Q0",
+      "snippet": {
+        "publishedAt": "2019-08-19T13:30:31Z",
+        "channelId": "UCxCTP6k0VhJjpZISsj1QaSw",
+        "title": "Demon Slayer | OP | \"Gurenge\" by LiSA HD",
+        "description": "Subscribe to Funimation's YouTube Channel for all your anime downunder https://weareani.me/sjvgdsLiSA is performing the series' opening theme song \"Gurenge\" (紅蓮華). Join us in watching 'Demon Slayer', simulcasting now on AnimeLab! 👹 http://mad.mn/slay\n\nSubscribe to our channel for all the latest updates & videos!\n\nWebsite: http://www.animelab.com\nLike us on Facebook: http://www.facebook.com/animelab\nFollow us on Twitter: http://www.twitter.com/animelab\n\n© 2014 AnimeLab",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pmanD_s7G3U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pmanD_s7G3U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pmanD_s7G3U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pmanD_s7G3U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pmanD_s7G3U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Le Regard Otaku",
+        "playlistId": "PLcCQJuPwyya3uxri7ZCiDDjMwaaVXz7DK",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pmanD_s7G3U"
+        },
+        "videoOwnerChannelTitle": "animelab",
+        "videoOwnerChannelId": "UCWt3xWeVSCnVPZFdhcjFsUQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "GuPFJYRpslDSAbf8u7xu4P4xOxU",
+      "id": "UExjQ1FKdVB3eXlhM3V4cmk3WkNpRERqTXdhYVZYejdESy4xM0YyQUYxQTg5OTgyQ0Y5",
+      "snippet": {
+        "publishedAt": "2020-10-05T11:02:12Z",
+        "channelId": "UCxCTP6k0VhJjpZISsj1QaSw",
+        "title": "TVアニメ『呪術廻戦』ノンクレジットOPムービー／OPテーマ：Eve「廻廻奇譚」",
+        "description": "TVアニメ『呪術廻戦』\n毎週金曜日深夜1時25分から、\nMBS/TBS系全国28局ネット、“スーパーアニメイズム”枠にて放送中‼\n\nOPテーマ：Eve「廻廻奇譚」\nListen＆DL： https://tf.lnk.to/kaikaikitan\n\n【歌詞】\nアーティスト：Eve\n作詞・作曲：Eve\n編曲：Numa\n\n有象無象 人の成り\n虚勢 心象 人外 物の怪みたいだ\n\n虚心坦懐 命宿し\nあとはぱっぱらぱな中身なき人間\n\n寄せる期待 不平等な人生\n才能もない 大乗 非日常が　\n\n怨親平等に没個性\n辿る記憶 僕に\n居場所などないから\n\n夢の狭間で泣いてないで\nどんな顔すればいいか わかってる\nだけどまだ応えてくれよ\n\n闇を祓って 闇を祓って\n夜の帳が下りたら合図だ\n相対して 廻る環状戦\n戯言などは 吐き捨ていけと\n\nまだ止めないで まだ止めないで\n誰よりも聡く在る 街に生まれしこの正体を\n今はただ呪い呪われた僕の未来を創造して\n走って 転んで 消えない痛み抱いては\n世界が待ってる この一瞬を\n\n【イントロダクション】\n少年は戦う――　「正しい死」を求めて\n\n辛酸・後悔・恥辱\n人間が生む負の感情は呪いと化し日常に潜む\n呪いは世に蔓延る禍源であり、最悪の場合、人間を死へと導く\n\nそして、呪いは呪いでしか祓えない\n\n驚異的な身体能力を持つ、少年・虎杖悠仁はごく普通の高校生活を送っていたが、ある日“呪い”に襲われた仲間を救うため、特級呪物“両面宿儺の指”を喰らい、己の魂に呪いを宿してしまう\n\n呪いである“両面宿儺”と肉体を共有することとなった虎杖は、\n最強の呪術師である五条 悟の案内で、対呪い専門機関である「東京都立呪術高等専門学校」へと編入することになり……\n\n呪いを祓うべく呪いとなった少年の後戻りのできない、壮絶な物語が廻りだす―\n\n【STAFF】\n原作：芥見下々（集英社「週刊少年ジャンプ」連載）\n監督：朴 性厚\nシリーズ構成・脚本：瀬古浩司\nキャラクターデザイン：平松禎史\n副監督：梅本 唯\n美術監督：金 廷連\n色彩設計：鎌田千賀子\nCGIプロデューサー：淡輪雄介\n3DCGディレクター：兼田美希・木村謙太郎\n撮影監督：伊藤哲平\n編集：柳 圭介\n音楽：堤 博明・照井順政・桶狭間ありさ\n音響監督：藤田亜紀子\n音響制作：dugout\n制作：MAPPA\n\n【CAST】\n虎杖悠仁：榎木淳弥\n伏黒 恵：内田雄馬\n釘崎野薔薇：瀬戸麻沙美\n禪院真希：小松未可子\n狗巻 棘：内山昂輝\nパンダ：関 智一\n七海建人：津田健次郎\n伊地知潔高：岩田光央\n家入硝子：遠藤 綾　\n夜蛾正道：黒田崇矢\n五条 悟：中村悠一\n東堂 葵：木村 昴　\n禪院真依：井上麻里奈\n三輪 霞：赤﨑千夏\n楽巌寺嘉伸：麦人　\n吉野順平：山谷祥生\n夏油 傑：櫻井孝宏\n漏瑚：千葉 繁\n花御：田中敦子\n真人：島﨑信長\n両面宿儺：諏訪部順一\n\njujutsukaisen.jp\n©芥見下々／集英社・呪術廻戦製作委員会",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v8bZVdTgXoY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v8bZVdTgXoY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v8bZVdTgXoY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/v8bZVdTgXoY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/v8bZVdTgXoY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Le Regard Otaku",
+        "playlistId": "PLcCQJuPwyya3uxri7ZCiDDjMwaaVXz7DK",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "v8bZVdTgXoY"
+        },
+        "videoOwnerChannelTitle": "TOHO animation チャンネル",
+        "videoOwnerChannelId": "UC14Yc2Qv92DMuyNRlHvpo2Q"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1xzcN2p69YNT89GqTbtfAPMyZ1s",
+      "id": "UExjQ1FKdVB3eXlhM3V4cmk3WkNpRERqTXdhYVZYejdESy4xMUQ5ODk0Q0I0MjZBQjhG",
+      "snippet": {
+        "publishedAt": "2019-08-19T13:29:40Z",
+        "channelId": "UCxCTP6k0VhJjpZISsj1QaSw",
+        "title": "ＴＶアニメ 「Ｄｒ．ＳＴＯＮＥ」 第1クールOP＜Good Morning World!＞ノンクレジット映像",
+        "description": "週刊少年ジャンプにて大好評連載中の「Ｄｒ．ＳＴＯＮＥ」（ドクターストーン）が、TOKYO MX/BS11他にて好評放送中！\n\n石の世界（ストーンワールド）を舞台にした、\n前代未聞のクラフトアドベンチャーの開幕を告げる、\n第1クールOP＜Good Morning World!＞ノンクレジット映像を早くも公開！\n\n青春文学ロックバンド\"BURNOUT SYNDROMES\"による、\n作品シンクロ度100億%な楽曲との、超絶化学反応をぜひ体感してください！！ \n\n放送配信情報：https://dr-stone.jp/onair/\n\n【INTRODUCTION】\n\n全人類が、謎の現象により一瞬で石化して数千年――。\n超人的な頭脳を持つ、根っからの科学少年・千空が目覚めた。\n\n文明が滅んだ石の世界（ルビ：ストーンワールド）を前に、\n千空は、科学の力で世界を取り戻すことを決意。\n体力自慢の幼馴染・大木大樹はじめ仲間をよみがえらせ、\nゼロから文明を作り出していく――\n\n石器時代から現代文明まで、科学史200万年を駆け上がる！\n前代未聞のクラフト冒険譚（ルビ：アドベンチャー）、ここに開幕！\n\n【CAST】\n千空（せんくう）：小林裕介\n大木大樹（おおき たいじゅ）：古川 慎\n小川 杠（おがわ ゆずりは）：市ノ瀬加那\n獅子王 司（ししおう つかさ）：中村悠一 \nコハク：沼倉愛美\nクロム：佐藤 元\n金狼（キンロー）／前野智昭\n銀狼（ギンロー）／村瀬 歩\nルリ／上田麗奈\nスイカ／高橋花林\nあさぎりゲン／河西健吾\nカセキ／麦人\n他\n\n【STAFF】\n原作：稲垣理一郎・Boichi（集英社「週刊少年ジャンプ」連載）\n監督：飯野慎也\nシリーズ構成・脚本：木戸雄一郎\nキャラクターデザイン：岩佐裕子\nデザインワークス：水村良男\nメインアニメーター：堀内博之\n美術設定：青木智由紀         \n美術監督：吉原俊一郎         \n色彩設計：中尾総子            \n撮影監督：葛山剛士            \n編集：坂本久美子 \n音響監督：明田川 仁           \n音楽：加藤達也・堤 博明・YUKI KANESAKA       \nアニメーション制作：トムス・エンタテインメント\nオープニングテーマ：BURNOUT SYNDROMES「Good Morning World!」\nエンディングテーマ：Rude-α「LIFE」\n\n（公式HP）http://dr-stone.jp\n（公式Twitter）@stone_anime_off\n\n©米スタジオ・Boichi／集英社・Dr.STONE製作委員会",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tF4faMbs5oQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tF4faMbs5oQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tF4faMbs5oQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tF4faMbs5oQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tF4faMbs5oQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Le Regard Otaku",
+        "playlistId": "PLcCQJuPwyya3uxri7ZCiDDjMwaaVXz7DK",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "tF4faMbs5oQ"
+        },
+        "videoOwnerChannelTitle": "TOHO animation チャンネル",
+        "videoOwnerChannelId": "UC14Yc2Qv92DMuyNRlHvpo2Q"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "C3YFmzFcGrOfFnVBb0t4D3ZVKas",
+      "id": "UExjQ1FKdVB3eXlhM3V4cmk3WkNpRERqTXdhYVZYejdESy4xNUMzRTJBOEYwRTBDOTBD",
+      "snippet": {
+        "publishedAt": "2017-09-17T18:02:26Z",
+        "channelId": "UCxCTP6k0VhJjpZISsj1QaSw",
+        "title": "『僕のヒーローアカデミア』ヒロアカ2期第2クールオープニングムービー／「空に歌えば」amazarashi／ヒロアカOP",
+        "description": "放送期間：2017年4月～9月 毎週夕方5:30より読売テレビ・日本テレビ系全国29局ネットにて\n\n＜スタッフ＞\n原作・ストーリー原案：堀越耕平（集英社「週刊少年ジャンプ」連載中）／監督：長崎健司／脚本：黒田洋介／キャラクターデザイン：馬越嘉彦／キャラクターデザイン補佐：小田嶋瞳／音楽：林ゆうき／オープニングテーマ：「空に歌えば」amazarashi／エンディングテーマ：「だってアタシのヒーロー。」LiSA／アニメーション制作：ボンズ\n\n＜キャスト＞\n緑谷出久：山下大輝／オールマイト：三宅健太／爆豪勝己：岡本信彦／麗日お茶子：佐倉綾音／飯田天哉：石川界人／轟焦凍：梶裕貴／蛙吹梅雨：悠木碧／峰田実：広橋涼／切島鋭児郎：増田俊樹／八百万百：井上麻里奈／常闇踏陰：細谷佳正／上鳴電気：畠中祐／相澤消太：諏訪部順一／死柄木弔：内山昂輝／ステイン：井上剛\nhttp://heroaca.com\n©堀越耕平／集英社・僕のヒーローアカデミア製作委員会",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/l2j1qM7gx54/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/l2j1qM7gx54/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/l2j1qM7gx54/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/l2j1qM7gx54/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Le Regard Otaku",
+        "playlistId": "PLcCQJuPwyya3uxri7ZCiDDjMwaaVXz7DK",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "l2j1qM7gx54"
+        },
+        "videoOwnerChannelTitle": "TOHO animation チャンネル",
+        "videoOwnerChannelId": "UC14Yc2Qv92DMuyNRlHvpo2Q"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "w-1CN5sbv9rA3dtyHD_3KHUo_bc",
+      "id": "UExjQ1FKdVB3eXlhM3V4cmk3WkNpRERqTXdhYVZYejdESy5FRkU3NjdFNDBDMjFBNTlF",
+      "snippet": {
+        "publishedAt": "2020-10-05T11:21:01Z",
+        "channelId": "UCxCTP6k0VhJjpZISsj1QaSw",
+        "title": "The God of High School - Opening (HD)",
+        "description": "👉 Anime : The God of High School\n📺 Où regarder : https://got.cr/2VPQGCF\n\nJin Mori se vante d'être extrêmement fort lorsqu'il s'agit de se battre. Sa vie bascule quand il est invité à participer au tournoi God of High School (Dieu du lycée) visant à déterminer le lycéen le plus puissant de tous. S'il gagne, tous ses vœux seront exaucés... \n\nMais les autres participants ne sont pas en reste et chacun vient avec ses propres motivations pour accéder à la victoire et ainsi réaliser ses souhaits. Une série d'affrontements quelque peu chaotiques commence entre eux, mais que va-t-il vraiment les attendre à la fin de ce tournoi ?\n\nRetrouvez sur 🌟 https://www.crunchyroll.com les derniers animés légalement en HD sur votre TV, PC ou console une heure après la diffusion japonaise ou gratuitement 7 jours après leur mise en ligne.\n\nFACEBOOK : https://www.facebook.com/crunchyroll.fr\nTWITTER : https://twitter.com/Crunchyroll_fr\nINSTAGRAM : https://www.instagram.com/crunchyroll_fr\nYOUTUBE : https://www.youtube.com/c/CrunchyrollFR",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UW_-eBc0U7U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UW_-eBc0U7U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UW_-eBc0U7U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UW_-eBc0U7U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UW_-eBc0U7U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Le Regard Otaku",
+        "playlistId": "PLcCQJuPwyya3uxri7ZCiDDjMwaaVXz7DK",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UW_-eBc0U7U"
+        },
+        "videoOwnerChannelTitle": "Crunchyroll FR",
+        "videoOwnerChannelId": "UCf2L21tpe1P-Y4QjOXkCIvQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "RrsV9TXv9BKzY7-j5OoACbBESyc",
+      "id": "UExjQ1FKdVB3eXlhM3V4cmk3WkNpRERqTXdhYVZYejdESy4wMkM3QkFEQzQ4QTU0MTNB",
+      "snippet": {
+        "publishedAt": "2017-04-17T12:53:47Z",
+        "channelId": "UCxCTP6k0VhJjpZISsj1QaSw",
+        "title": "Attack on Titan Season 2 - Official Opening Song - Shinzou wo Sasageyo by Linked Horizon",
+        "description": "Subscribe to Funimation's YouTube Channel for all your anime downunder https://weareani.me/sjvgdsAttack on Titan Season 2 OP - “Shinzou wo Sasageyo”\n\nPerformed by: Linked Horizon\nLyrics by: Revo\nMusic by: Revo\nArrangement by: Revo (Pony Canyon)\n\nSubscribe to our channel for all the latest updates & videos!\n\nWebsite: http://www.animelab.com\nLike us on Facebook: http://www.facebook.com/animelab\nFollow us on Twitter: http://www.twitter.com/animelab\n\n© 2014 AnimeLab",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CID-sYQNCew/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CID-sYQNCew/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CID-sYQNCew/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CID-sYQNCew/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CID-sYQNCew/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Le Regard Otaku",
+        "playlistId": "PLcCQJuPwyya3uxri7ZCiDDjMwaaVXz7DK",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CID-sYQNCew"
+        },
+        "videoOwnerChannelTitle": "animelab",
+        "videoOwnerChannelId": "UCWt3xWeVSCnVPZFdhcjFsUQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "OgqNh-tULBNYhz17pZisDUBSHH0",
+      "id": "UExjQ1FKdVB3eXlhM3V4cmk3WkNpRERqTXdhYVZYejdESy40M0Y4MEVDM0MxRTYxRERE",
+      "snippet": {
+        "publishedAt": "2020-10-05T11:17:37Z",
+        "channelId": "UCxCTP6k0VhJjpZISsj1QaSw",
+        "title": "\"Kaguya-sama: Love Is War?\" Opening Theme (Limited Time Only)",
+        "description": "To celebrate the English dub premiere of “Kaguya-sama: Love Is War?” on Funimation, the opening theme will be streaming on YouTube for a limited time only! \n\nMusic: “DADDY! DADDY! DO! feat. Airi Suzuki” by Masayuki Suzuki\n\n❤ “Kaguya-sama: Love Is War?” Official Homepage (English):\nhttps://kaguyasama-anime.com/ \n\n❤ “Kaguya-sama: Love Is War?” Official Facebook (English):\nhttps://www.facebook.com/kaguyasama.anime/\n\n“Kaguya-sama: Love Is War?” is streaming now Funimation!:\nhttps://www.funimation.com/shows/kaguya-sama-love-is-war/\n\n\n◆ CAST (Japanese / English)\nKaguya Shinomiya: Aoi Koga / Alexis Tipton\nMiyuki Shirogane: Makoto Furukawa / Aaron Dismuke\nChika Fujiwara: Konomi Kohara / Jad Saxton\nYu Ishigami: Ryota Suzuki / Austin Tindle\nMiko Iino: Miyu Tomita / \nAi Hayasaka: Yumiri Hanamori / Amanda Lee\nNagisa Kashiwagi: Momo Asakura / Bryn Apprill\nKobachi Osaragi: Rina Hidaka / \nKashiwagi's Boyfriend: Taku Yashiro / Brandon McInnis\nNarrator: Yutaka Aoyama / Ian Sinclair\n\n◆ STAFF\nOriginal Story: Aka Akasaka (Serialized in \"WEEKLY YOUNG JUMP\" by SHUEISHA)\nDirector: Mamoru Hatakeyama \nSeries Structure: Yasuhiro Nakanishi\nCharacter Design: Yuko Yahiro \nChief Animation Directors: Hiroshi Yakou, Yuko Hariba, Kii Tanaka\nProp Design: Takayuki Kidou\nArt Director: Risa Wakabayashi\nArt Setting: Hiroki Matsumoto, Mayuko Ogawa\nColor Setting: Kanako Hokari \nCG Director: Yuki Kuribayashi\nDirector of Photography: Masaharu Okazaki\nEditor: Rie Matsubara\nMusic: Kei Haneoka\nSound Director: Jin Aketagawa\nSound Production: MAGIC CAPSULE\nProduction: A-1 Pictures\nProduced by: PROJECT KAGUYA\n\nADR Director – Morgan Lauré Garrett\n\n◆OPENING THEME\n“DADDY ! DADDY ! DO ! feat. Airi Suzuki” by Masayuki Suzuki is available now on Apple Music and Google Play!\n\nApple Music: https://music.apple.com/us/artist/masayuki-suzuki/203977393\n\nGoogle Play: https://play.google.com/store/music/album/Masayuki_Suzuki_All_Time_Rock_n_Roll?id=Bejgemsdmp6sk25p2xtlfngrvvq&hl=en_US\n\n\n©Aka Akasaka/SHUEISHA, PROJECT KAGUYA",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lTlzDfhPtFA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lTlzDfhPtFA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lTlzDfhPtFA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lTlzDfhPtFA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lTlzDfhPtFA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Le Regard Otaku",
+        "playlistId": "PLcCQJuPwyya3uxri7ZCiDDjMwaaVXz7DK",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lTlzDfhPtFA"
+        },
+        "videoOwnerChannelTitle": "Aniplex USA",
+        "videoOwnerChannelId": "UCDb0peSmF5rLX7BvuTcJfCw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bUeDcyPiUuwaO7FZ7HjPm_4O8Sk",
+      "id": "UExjQ1FKdVB3eXlhM3V4cmk3WkNpRERqTXdhYVZYejdESy42MTk5OTRCREQ5RkNFODZF",
+      "snippet": {
+        "publishedAt": "2018-07-22T20:42:26Z",
+        "channelId": "UCxCTP6k0VhJjpZISsj1QaSw",
+        "title": "Attack on Titan Season 3 - Official Opening | OP1 [ RED SWAN ]",
+        "description": "*TURN ON CAPTIONS FOR THE SUBTITLES*\n\nAttack on Titan | Shingeki no Kyojin Season 3 - Opening 1 English Subbed\nThe first Opening of Season 3\n\n#AttackonTitan\nI do not own anything : \n\n\n\"Red Swan\" by YOSHIKI (X JAPAN) feat. HYDE\n\n* Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use. *\n\nThe images, music and Lyrics that accompany this video are copyrighted by their authors and producers. Its use is only for purposes of illustrative and informative, without infringing any copyright or intellectual property. Copyright fair use notice,\nTitle 17, US Code (Sections 107-118 of the copyright law).*\n\nLyrics :\nlike the sky at night\nThere in the dark\nYou can hide your fear\nCan lie my dear\n\nkono mama\nyume o mite\nchi-darake no tsubasa\nhirogete\n\n\n \nWhat’ s the lie? *\nWhat’ s the truth?\nWhat to believe?\n\nLike a fallen angel\ntoki no kaze ni\nnagasarete ochite iku\n\n\n \nInto the starry night\nmegami no yō ni\ndakishimete eien o\nFly to heaven",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/swwUoExDIng/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/swwUoExDIng/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/swwUoExDIng/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/swwUoExDIng/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Le Regard Otaku",
+        "playlistId": "PLcCQJuPwyya3uxri7ZCiDDjMwaaVXz7DK",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "swwUoExDIng"
+        },
+        "videoOwnerChannelTitle": "Lonystal",
+        "videoOwnerChannelId": "UCaqqVdA2gS_cYmAmIJa6AFA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "xxnBMNbQvyULevqPmoqYxOovAOM",
+      "id": "UExjQ1FKdVB3eXlhM3V4cmk3WkNpRERqTXdhYVZYejdESy45MTRCQjE3QzVGNDREODIz",
+      "snippet": {
+        "publishedAt": "2020-10-05T11:21:20Z",
+        "channelId": "UCxCTP6k0VhJjpZISsj1QaSw",
+        "title": "Tower of God - Opening | TOP",
+        "description": "Artist: Stray Kids\nSong: TOP\nWatch Tower of God on Crunchyroll! https://got.cr/Watch-TOGOPED\nRead on Webtoon: http://bit.ly/3cDYrCB\n\nCrunchyroll Collection brings you the latest clips, OPs, and more from your favorite anime! Don't have time for a full episode but want to catch up on the best scenes? We've got them! \n\nFREE 14-DAY CRUNCHYROLL TRIAL 🌟 https://got.cr/14DaysFree\n\n#towerofgod #straykids #top",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/apII5VFTce0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/apII5VFTce0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/apII5VFTce0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/apII5VFTce0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/apII5VFTce0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Le Regard Otaku",
+        "playlistId": "PLcCQJuPwyya3uxri7ZCiDDjMwaaVXz7DK",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "apII5VFTce0"
+        },
+        "videoOwnerChannelTitle": "Crunchyroll Collection",
+        "videoOwnerChannelId": "UC6pGDc4bFGD1_36IKv3FnYg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bnNYCyahHRC1WUOMaDIyIQ-SVRM",
+      "id": "UExjQ1FKdVB3eXlhM3V4cmk3WkNpRERqTXdhYVZYejdESy4yRjU0MzcwMkYwRkVDNDhC",
+      "snippet": {
+        "publishedAt": "2018-06-12T10:28:00Z",
+        "channelId": "UCxCTP6k0VhJjpZISsj1QaSw",
+        "title": "Mahoutsukai no Yome OP",
+        "description": "YEET",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zuW_qSQXFx0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zuW_qSQXFx0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zuW_qSQXFx0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zuW_qSQXFx0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zuW_qSQXFx0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Le Regard Otaku",
+        "playlistId": "PLcCQJuPwyya3uxri7ZCiDDjMwaaVXz7DK",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zuW_qSQXFx0"
+        },
+        "videoOwnerChannelTitle": "JustUsFour",
+        "videoOwnerChannelId": "UCGJTvUwJO5v9IPA1UCU5yBg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Wp0tfqJF4yVVTAgR8UbRLfyeaxk",
+      "id": "UExjQ1FKdVB3eXlhM3V4cmk3WkNpRERqTXdhYVZYejdESy41ODI2RjhGOTVBODI2NDE5",
+      "snippet": {
+        "publishedAt": "2020-10-05T11:35:58Z",
+        "channelId": "UCxCTP6k0VhJjpZISsj1QaSw",
+        "title": "TVアニメ「BEASTARS」ノンクレジット OP",
+        "description": "「マンガ大賞２０１８」第１位にはじまり、主要マンガ賞4冠。数々の賞を総なめにしてきた本作が、「宝石の国」のオレンジによる日本最高峰の技術でアニメ化決定！新才能が紡ぐ、差別、愛、弱さ、希望…珠玉の動物版ヒューマンドラマがいよいよアニメーションで描かれます！ \n\n東京 渋谷出身の多国籍HIP-HOP/FUNK BAND”ALI”が歌う、ノンクレジットのOP映像を公開！\n\nTVアニメ「BEASTARS」オープニングテーマ\n「Wild Side」\nアーティスト：ALI\n\n「Wild Side」Anime Ver先行配信中！\n配信サービスはこちら！\nhttps://lnk.to/NFlpy\n\nTVアニメ「BEASTARS」\nフジテレビ「+Ultra」にて毎週水曜日24時55分から放送中！ \nNETFLIXにて毎週木曜日配信！（日本先行）\n\nその他各局でも放送！\n関西テレビ：25:55〜26:25　\n東海テレビ：25:55〜26:25\nテレビ西日本：25:55～26:25\n北海道文化放送：25:15～25:45\n BSフジ：24:00～24:30\n\n放送は予告なく変更になる可能性がございます。\n放送情報の詳細は各局HPをご確認下さい。\n\n監督　松見真一\n脚本　樋口七海 キャラクターデザイン　大津直　CGチーフディレクター　井野元英二\n美術監督　春日美波　色彩設計　橋本賢　撮影監督　古性史織　蔡伯崙　編集　植松淳一　音楽　神前暁（MONACA）\n制作　オレンジ\n\n小林親弘　千本木彩花　小野友樹　種﨑敦美\n榎木淳弥　内田雄馬　大塚剛央　小林直人　下妻由幸\n岡本信彦　落合福嗣　虎島貴明　渡部紗弓　室元気　井口祐一\n原優子　兼政郁人　大内茜　山村響　あんどうさくら\n大塚明夫　星野充昭　堀内賢雄\n\nオープニングテーマ　ALI 「Wild Side」（Alien Liberty International）\nエンディングテーマ　YURiKA 「Le zoo」（TOHO animation RECORDS）\n\n公式HP　bst-anime.com\n公式twitter　@bst_anime\n\n©板垣巴留（秋田書店）／BEASTARS製作委員会",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bgo9dJB_icw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bgo9dJB_icw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bgo9dJB_icw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bgo9dJB_icw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bgo9dJB_icw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Le Regard Otaku",
+        "playlistId": "PLcCQJuPwyya3uxri7ZCiDDjMwaaVXz7DK",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "bgo9dJB_icw"
+        },
+        "videoOwnerChannelTitle": "TOHO animation チャンネル",
+        "videoOwnerChannelId": "UC14Yc2Qv92DMuyNRlHvpo2Q"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "uYLvMgfGv9hISLhPgBBy2yisYug",
+      "id": "UExjQ1FKdVB3eXlhM3V4cmk3WkNpRERqTXdhYVZYejdESy43OTNDNTk0OUNGMDA1MUNG",
+      "snippet": {
+        "publishedAt": "2020-10-11T07:03:10Z",
+        "channelId": "UCxCTP6k0VhJjpZISsj1QaSw",
+        "title": "Keep Your Hands Off Eizouken! - Opening | Easy Breezy",
+        "description": "Artist: chelmico\nSong: Easy Breezy\nWatch Keep Your Hands Off Eizouken! on Crunchyroll! https://got.cr/Watch-EizoukenOPED\n\nCrunchyroll Collection brings you the latest clips, OPs, and more from your favorite anime! Don't have time for a full episode but want to catch up on the best scenes? We've got them!\n\nFREE 14-DAY CRUNCHYROLL TRIAL 🌟  https://got.cr/14DaysFree\n\n#eizouken #chelmico #easybreezy",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8-91y7BJ8QA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8-91y7BJ8QA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8-91y7BJ8QA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8-91y7BJ8QA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8-91y7BJ8QA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Le Regard Otaku",
+        "playlistId": "PLcCQJuPwyya3uxri7ZCiDDjMwaaVXz7DK",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8-91y7BJ8QA"
+        },
+        "videoOwnerChannelTitle": "Crunchyroll Collection",
+        "videoOwnerChannelId": "UC6pGDc4bFGD1_36IKv3FnYg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "53hNrBhdYcuOYLp0O3x-Pv_ud54",
+      "id": "UExjQ1FKdVB3eXlhM3V4cmk3WkNpRERqTXdhYVZYejdESy44OEI3NUQ0QTlFM0FCOUU4",
+      "snippet": {
+        "publishedAt": "2020-10-05T11:20:09Z",
+        "channelId": "UCxCTP6k0VhJjpZISsj1QaSw",
+        "title": "Black Clover - Opening 3 (HD)",
+        "description": "😍🔥NEW OPENING 12 : https://youtu.be/MORpybHP4po 🔥😍\n\nBlack Clover - Opening 3 : BLACK ROVER par Vickeblanka\n\n👉 Opening 1 : https://youtu.be/zW1v0QBqTOs\n👉 Opening 2 : https://youtu.be/e_tjkZ8GzFQ\n\nBlack Clover - Synopsis :\n\nDans un monde régi par la magie, Yuno et Asta ont grandi ensemble avec un seul but en tête : devenir le prochain Empereur-Mage du royaume de Clover. Mais si le premier est naturellement doué, le deuxième, quant à lui, ne sait pas manipuler la magie. C'est ainsi que lors de la cérémonie d'attribution de leur grimoire, Yuno reçoit le légendaire grimoire au trèfle à quatre feuilles tandis qu'Asta, lui, repart bredouille. Or, plus tard, un ancien et mystérieux ouvrage noir décoré d'un trèfle à cinq feuilles surgit devant lui ! Un grimoire d’anti-magie…\n\nSUR NOTRE CHAINE\nEnvie de voir des épisodes COMPLETS d’animés en VOSTFR ?   http://got.cr/épisodes_complets\nVous recherchez des reviews pour savoir quel animé commencer ?   http://got.cr/reviews_animés\nTous nos autres trailers 👉 http://got.cr/Trailers_animés\n\nSUR NOTRE SITE\nRegardez l'animé Black Clover sur Crunchyroll : http://got.cr/black--clover\n\nRetrouvez sur 🌟 www.crunchyroll.com les derniers animés légalement en HD sur votre TV, PC ou console une heure après la diffusion japonaise ou gratuitement 7 jours après leur mise en ligne.\n\n©YUKI TABATA/SHUEISHA,TV TOKYO,BLACK CLOVER PROJECT\n\nFACEBOOK : https://www.facebook.com/crunchyroll.fr\nTWITTER : https://twitter.com/Crunchyroll_fr",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dsK8SsfqdHE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dsK8SsfqdHE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dsK8SsfqdHE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dsK8SsfqdHE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dsK8SsfqdHE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Le Regard Otaku",
+        "playlistId": "PLcCQJuPwyya3uxri7ZCiDDjMwaaVXz7DK",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dsK8SsfqdHE"
+        },
+        "videoOwnerChannelTitle": "Crunchyroll FR",
+        "videoOwnerChannelId": "UCf2L21tpe1P-Y4QjOXkCIvQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "sARUKfc98IXk0-C6bjK-MxKwXj4",
+      "id": "UExjQ1FKdVB3eXlhM3V4cmk3WkNpRERqTXdhYVZYejdESy4xRUU4M0JFMUQ4QTA2MjVB",
+      "snippet": {
+        "publishedAt": "2020-10-05T11:20:25Z",
+        "channelId": "UCxCTP6k0VhJjpZISsj1QaSw",
+        "title": "Black Clover - Opening 10 (HD)",
+        "description": "Black Clover - Opening 10: Black Catcher by Vickeblanka\n\n👉 Opening 1 : https://youtu.be/zW1v0QBqTOs \n👉 Opening 2 : https://youtu.be/e_tjkZ8GzFQ \n👉 Opening 3 : https://youtu.be/dsK8SsfqdHE \n👉 Opening 4 : https://youtu.be/cK9Z9Zcuso0 \n👉 Opening 5 : https://youtu.be/YqmulhQcpUs \n👉 Opening 6 : https://youtu.be/_qaIika-QDU \n👉 Opening 7 : https://youtu.be/X_fkh5VeOvI \n👉 Opening 8 : https://youtu.be/Mb6TiHLMPEo \n👉 Opening 9 : https://youtu.be/jYUQ1Px3zPA\n\n👉 Animé : Black Clover \n📺 Où regarder : http://got.cr/black--clover \n\nDans un monde régi par la magie, Yuno et Asta ont grandi ensemble avec un seul but en tête : devenir le prochain Empereur-Mage du royaume de Clover. Mais si le premier est naturellement doué, le deuxième, quant à lui, ne sait pas manipuler la magie. C'est ainsi que lors de la cérémonie d'attribution de leur grimoire, Yuno reçoit le légendaire grimoire au trèfle à quatre feuilles tandis qu'Asta, lui, repart bredouille. Or, plus tard, un ancien et mystérieux ouvrage noir décoré d'un trèfle à cinq feuilles surgit devant lui ! Un grimoire d’anti-magie… \n\nRetrouvez sur 🌟 https://www.crunchyroll.com les derniers animés légalement en HD sur votre TV, PC ou console une heure après la diffusion japonaise ou gratuitement 7 jours après leur mise en ligne. \n\nFACEBOOK : https://www.facebook.com/crunchyroll.fr \nTWITTER : https://twitter.com/Crunchyroll_fr \nINSTAGRAM : https://www.instagram.com/crunchyroll_fr \nYOUTUBE : https://www.youtube.com/c/CrunchyrollFR",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4evV8Fr5A8U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4evV8Fr5A8U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4evV8Fr5A8U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4evV8Fr5A8U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4evV8Fr5A8U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Le Regard Otaku",
+        "playlistId": "PLcCQJuPwyya3uxri7ZCiDDjMwaaVXz7DK",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4evV8Fr5A8U"
+        },
+        "videoOwnerChannelTitle": "Crunchyroll FR",
+        "videoOwnerChannelId": "UCf2L21tpe1P-Y4QjOXkCIvQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "n4m4GHMOnjbmUXRZ_VAzA1Ac4bA",
+      "id": "UExjQ1FKdVB3eXlhM3V4cmk3WkNpRERqTXdhYVZYejdESy4yNkZBOTQyMkYxQkQyMzc2",
+      "snippet": {
+        "publishedAt": "2020-10-29T11:32:03Z",
+        "channelId": "UCxCTP6k0VhJjpZISsj1QaSw",
+        "title": "Soul Eater – Opening Theme 2 – Papermoon",
+        "description": "Subscribe to Funimation: https://weareani.me/YTSubscribe\nStart streaming anime subs and dubs: https://weareani.me/trial\nSubscribe to Funimation's Channel: https://weareani.me/YTSubscribe\n\"Papermoon\" by Tommy heavenly6\n\nWatch Soul Eater on Funimation: http://funi.to/1HbBXl0\n_______________________________ \n\nMaka is a Meister and Soul is her Weapon. As students at the Grim Reaper’s Death Weapon Meister Academy, their study habits couldn’t be more different. But in battle against the supernatural forces of evil, they’re a freakin’ lethal team.\n\nThat’s when Soul transforms – literally – into a razor-sharp scythe, and every defeated wicked soul he sucks down makes him more deadly. That’s when Maka unleashes the merciless slayer within, wielding her partner and dropping monsters. Seriously. Monsters. Like the witches, werewolves, and zombies that lurk in the shadows and feed on the souls of the innocent. Every freakish ghoul Maka and Soul take out strengthens their bond, and fighting alongside their fellow Meister/Weapon classmates, Maka and Soul are the world’s last line of defense against evil.\n\nSubscribe:\nhttps://funi.to/33ljKnE\n\nWatch More Videos Like This:\nhttps://funi.to/33ljJjA\n\nLearn More:\nWebsite: https://funi.to/33gDzfM\nTwitter: https://funi.to/33gDyse\nFacebook: https://funi.to/33ljLIe\nInstagram: https://funi.to/33j61Oh",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-eYK3YP524A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-eYK3YP524A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-eYK3YP524A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-eYK3YP524A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-eYK3YP524A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Le Regard Otaku",
+        "playlistId": "PLcCQJuPwyya3uxri7ZCiDDjMwaaVXz7DK",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-eYK3YP524A"
+        },
+        "videoOwnerChannelTitle": "Funimation",
+        "videoOwnerChannelId": "UCVi2lI40LetxLBKn-rtWC3A"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "y0uWf5ioYRtTSacnGLBA5XiA_1w",
+      "id": "UExjQ1FKdVB3eXlhM3V4cmk3WkNpRERqTXdhYVZYejdESy5BNEEyNDAyQThDNDA5MEU0",
+      "snippet": {
+        "publishedAt": "2018-01-31T17:50:39Z",
+        "channelId": "UCxCTP6k0VhJjpZISsj1QaSw",
+        "title": "Mirai Nikki Opening 1 [VOSTFR]",
+        "description": "Et encore un Opening\nCette fois le premier Opening de Mirai Nikki\nEnjoy :D",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I59V9pjEOLI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I59V9pjEOLI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I59V9pjEOLI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/I59V9pjEOLI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/I59V9pjEOLI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Le Regard Otaku",
+        "playlistId": "PLcCQJuPwyya3uxri7ZCiDDjMwaaVXz7DK",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "I59V9pjEOLI"
+        },
+        "videoOwnerChannelTitle": "Chōko",
+        "videoOwnerChannelId": "UCABE3b5zOTnL77attbDmz9w"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5A24fM_MSArpo6-0l2ehNW1DKwo",
+      "id": "UExjQ1FKdVB3eXlhM3V4cmk3WkNpRERqTXdhYVZYejdESy5FN0MwOEIwNDJFMDI5RDhB",
+      "snippet": {
+        "publishedAt": "2017-06-21T17:37:11Z",
+        "channelId": "UCxCTP6k0VhJjpZISsj1QaSw",
+        "title": "Yuri!!! on Ice ユーリ!!! on ICE Opening \"History Maker\"",
+        "description": "Yuri!!! on Ice ユーリ!!! on ICE Opening  \"History Maker\"\n\n＜オープニングテーマ＞\n「History Maker」\n作詞：DEAN FUJIOKA\n作曲：DEAN FUJIOKA　梅林太郎　松司馬拓\n歌：DEAN FUJIOKA 藤岡靛\n\nCan you hear my heartbeat？\nTired of feeling never enough\nI close my eyes and tell myself that my dreams will come true\n\nThere'll be no more darkness\nwhen you believe in yourself you are unstoppable\nWhere your destiny lies, dancing on the blades,\nyou set my heart on fire\n\nDon't stop us now, the moment of truth\nWe were born to make history\nWe'll make it happen, we'll turn it around\nYes, we were born to make history\n\nCan you hear my heartbeat？\nI've got a feeling it's never too late\nI close my eyes and see myself how my dreams will come true\n\nThere'll be no more darkness\nwhen you believe in yourself you are unstoppable\nWhere your destiny lies, dancing on the blades,\nyou set my heart on fire\n\nDon't stop us now, the moment of truth\nWe were born to make history\nWe'll make it happen, we'll turn it around\nYes, we were born to make history",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ORDXWrL5EuQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ORDXWrL5EuQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ORDXWrL5EuQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ORDXWrL5EuQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ORDXWrL5EuQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Le Regard Otaku",
+        "playlistId": "PLcCQJuPwyya3uxri7ZCiDDjMwaaVXz7DK",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ORDXWrL5EuQ"
+        },
+        "videoOwnerChannelTitle": "Yan CHING",
+        "videoOwnerChannelId": "UC-O0N72-uQR8Yj15-seCi4Q"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pXsxdCoDiba8axLEP3cOX78nCIU",
+      "id": "UExjQ1FKdVB3eXlhM3V4cmk3WkNpRERqTXdhYVZYejdESy5DMTA0RkI2RTNGNUQ0Njgw",
+      "snippet": {
+        "publishedAt": "2017-01-08T12:19:07Z",
+        "channelId": "UCxCTP6k0VhJjpZISsj1QaSw",
+        "title": "All Out!! OP Full",
+        "description": "Name Song: Flower - Lenny Code Fiction",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6vaVwbc_soo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6vaVwbc_soo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6vaVwbc_soo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6vaVwbc_soo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6vaVwbc_soo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Le Regard Otaku",
+        "playlistId": "PLcCQJuPwyya3uxri7ZCiDDjMwaaVXz7DK",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6vaVwbc_soo"
+        },
+        "videoOwnerChannelTitle": "Juanpi99",
+        "videoOwnerChannelId": "UCy-Yra43ybNDmPeF2AnfVZg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9AR6CsJtI_O3Z4ZxnEAZqQimnC8",
+      "id": "UExjQ1FKdVB3eXlhM3V4cmk3WkNpRERqTXdhYVZYejdESy5FOTM0MjQ2Q0ZDQURDRUFE",
+      "snippet": {
+        "publishedAt": "2016-11-01T14:08:48Z",
+        "channelId": "UCxCTP6k0VhJjpZISsj1QaSw",
+        "title": "Psycho-pass ED 1 - Monster without a name (Creditless)",
+        "description": "Anime: Psycho-Pass\nSong name: Namae no nai Kaibutsu (名前のない怪物; Monster with no name)\nSong artist: EGOIST\nSong Lyrics:\n\nThe fairytale\nseems to have died moments ago\nIn the brick hospital ward, I can't sing right at all\nOn the night shrouded in fog, come out, red moon\nHey, look at me\nDon't avert your eyes\n\nBehind the black cell bars\nI was born\nGo wish for the price for your malice\nWell, I'll give you that justice\nas much as you desire it\nDestroy it before it destroys you\nI'll pay the price for my karma\nand go together with you, monster without a name\n\nMy ears are ringing\nThe barbed wire is rattling so noisily\nthat I can't recall the melody from that day\nThe rain hasn't stopped yet\nI can't see anything\nHey, look at how big it has grown\n\nMake the black rain fall from this sky\nBecause I'm undesired\nI cracked into a nervous breakdown\nto my lovely onlookers who are just as guilty as I am\nWell, exercise that justice now\nEmbracing a wound that can't be wiped away\nI'll accept my body\nand go together with you, monster without a name\n\nAh\nGod tells of the true world\n\nBehind the black cell bars\nI was born\nGo wish for the price for your malice\nWell, I'll give you that justice\nas much as you desire it\nDestroy it before it destroys you\nI'll pay the price for my karma\nTake retribution, nameless monster\n\nMake the black rain fall from this sky\nBecause I'm undesired\nI cracked into a nervous breakdown\nto my lovely onlookers who are just as guilty as I am\nWell, exercise that justice now\nEmbracing a wound that can't be wiped away\nI'll accept my body\nand go together with you, monster without a name\n\nDisclaimer:I do not own any of the material used in this video, the copyrights belong to their respective owners.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sF0QLtk3YH0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sF0QLtk3YH0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sF0QLtk3YH0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sF0QLtk3YH0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sF0QLtk3YH0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Le Regard Otaku",
+        "playlistId": "PLcCQJuPwyya3uxri7ZCiDDjMwaaVXz7DK",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "sF0QLtk3YH0"
+        },
+        "videoOwnerChannelTitle": "Zemoch93",
+        "videoOwnerChannelId": "UCZiE2MXGVKpLf7NQQmghlOQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "hnXUrtk58QPJp3EVSYr-uJr-87g",
+      "id": "UExjQ1FKdVB3eXlhM3V4cmk3WkNpRERqTXdhYVZYejdESy43OTZFNzk1NjVDNDVBRjZG",
+      "snippet": {
+        "publishedAt": "2017-08-23T12:33:54Z",
+        "channelId": "UCxCTP6k0VhJjpZISsj1QaSw",
+        "title": "Hajime No Ippo New Challenger Opening Full",
+        "description": "Autor: Last Alliance - Hekireki",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KVg8NZHRv04/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KVg8NZHRv04/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KVg8NZHRv04/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KVg8NZHRv04/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KVg8NZHRv04/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Le Regard Otaku",
+        "playlistId": "PLcCQJuPwyya3uxri7ZCiDDjMwaaVXz7DK",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KVg8NZHRv04"
+        },
+        "videoOwnerChannelTitle": "Open Anime",
+        "videoOwnerChannelId": "UCDH65OaTWdpqyCG73VJOQtQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZaB9Ko9e9M9ltg7jSQcYPedeZxw",
+      "id": "UExjQ1FKdVB3eXlhM3V4cmk3WkNpRERqTXdhYVZYejdESy40NjI5ODZCQUE5NkRBMDI0",
+      "snippet": {
+        "publishedAt": "2018-01-30T22:15:34Z",
+        "channelId": "UCxCTP6k0VhJjpZISsj1QaSw",
+        "title": "Deleted video",
+        "description": "This video is unavailable.",
+        "thumbnails": {},
+        "channelTitle": "Le Regard Otaku",
+        "playlistId": "PLcCQJuPwyya3uxri7ZCiDDjMwaaVXz7DK",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CaksNlNniis"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "uWOkb95C-V_ZMDKS8jx4Cds5s0M",
+      "id": "UExjQ1FKdVB3eXlhM3V4cmk3WkNpRERqTXdhYVZYejdESy40MzQwRDA4N0ZGRTNBNTE2",
+      "snippet": {
+        "publishedAt": "2017-03-27T15:51:04Z",
+        "channelId": "UCxCTP6k0VhJjpZISsj1QaSw",
+        "title": "Masamune-kun no Revenge OP / Opening [HD]",
+        "description": "Masamune-kun no Revenge 政宗くんのリベンジ OP / Opening \"Wagamama MIRROR HEART\" by Ayaka Ohashi\nMasamune-kun no Revenge\nMasamune-kun's Revenge\n政宗くんのリベンジ \nWagamama MIRROR HEART\" by Ayaka Ohashi\nMasamune-kun no Revenge OP\nMasamune-kun no Revenge Opening\nMasamune-kun no Revenge Episode 1 \nMasamune-kun no Revenge English Sub",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4pT-eLMjUaY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4pT-eLMjUaY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4pT-eLMjUaY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4pT-eLMjUaY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4pT-eLMjUaY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Le Regard Otaku",
+        "playlistId": "PLcCQJuPwyya3uxri7ZCiDDjMwaaVXz7DK",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4pT-eLMjUaY"
+        },
+        "videoOwnerChannelTitle": "DAISUKI™",
+        "videoOwnerChannelId": "UC8B89srJRFxn3qHzPYeGZsQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "p7aKnrBuXWYI7cIbLu2aaP7p7nc",
+      "id": "UExjQ1FKdVB3eXlhM3V4cmk3WkNpRERqTXdhYVZYejdESy4yQUYyOTAwNjkwNDE5QjlE",
+      "snippet": {
+        "publishedAt": "2017-07-23T13:32:11Z",
+        "channelId": "UCxCTP6k0VhJjpZISsj1QaSw",
+        "title": "Rainbow: Nisha Rokubou no Shichinin - Opening [sub esp] (TV version)",
+        "description": "\"We're not alone\" by Coldrain.\r\nSubtitulado en español.\r\n\r\nDisfruten!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yMcCtcR6nOg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yMcCtcR6nOg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yMcCtcR6nOg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Le Regard Otaku",
+        "playlistId": "PLcCQJuPwyya3uxri7ZCiDDjMwaaVXz7DK",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yMcCtcR6nOg"
+        },
+        "videoOwnerChannelTitle": "RyockouInafume",
+        "videoOwnerChannelId": "UCgOF3Lo22ZD2s1DNfeNzf8Q"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5VUhBNVCtL9dXEiCB9PFfjqHSB0",
+      "id": "UExjQ1FKdVB3eXlhM3V4cmk3WkNpRERqTXdhYVZYejdESy4wRjhFM0MxMTU1MEUzQ0VB",
+      "snippet": {
+        "publishedAt": "2015-11-28T17:26:47Z",
+        "channelId": "UCxCTP6k0VhJjpZISsj1QaSw",
+        "title": "Noragami Aragoto Opening Fulli - Hey kids! lyrics",
+        "description": "Anime: Noragami Aragato\nSong: Kyouran Hey Kids!\nArtist: The oral cigarettes\nThe author of lyrics: Dr. Pepper",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7Ap_nc9ez3k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7Ap_nc9ez3k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7Ap_nc9ez3k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7Ap_nc9ez3k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7Ap_nc9ez3k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Le Regard Otaku",
+        "playlistId": "PLcCQJuPwyya3uxri7ZCiDDjMwaaVXz7DK",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7Ap_nc9ez3k"
+        },
+        "videoOwnerChannelTitle": "TheMidnightArtist",
+        "videoOwnerChannelId": "UCV1u_BZ4u3gP5Ys9Iy7D7QA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8RnrTNRWVCuJ5-yHkFLpXdtPu3g",
+      "id": "UExjQ1FKdVB3eXlhM3V4cmk3WkNpRERqTXdhYVZYejdESy42NEZDNTU0RTRENDUzRjMz",
+      "snippet": {
+        "publishedAt": "2016-04-07T14:49:36Z",
+        "channelId": "UCxCTP6k0VhJjpZISsj1QaSw",
+        "title": "BOKU NO HERO ACADEMIA OPENING (僕のヒーローアカデミア Op)",
+        "description": "MY ENGLISH VERSION: https://www.youtube.com/watch?v=raGb14Ojm_k\nTo get the mp3, backingtrack and more go to: http://patreon.com/pellekofficial\n\nAll my covers and original songs on iTunes: https://itunes.apple.com/artist/pelle...\nBuy merch and signed PelleK-albums at http://pellek.com\nMy Facebook Profile: http://facebook.com/imPelleK\nPelleK's Facebook Page: http://facebook.com/pellekofficial\nMy twitter: http://twitter.com/imPelleK\nInstagram: http://instagram.com/realpellek\n\nI hope you like this video and consider sharing it with your friends. Rock on! \\m/\n\nVocals and backing vocals sung by Per Fredrik \"PelleK\" Åsly\nArranged and orchestrated by Per Fredrik \"PelleK\" Åsly\nGuitars and drums played by Gisha Djordjevic\nBass and piano played by Per Fredrik \"PelleK\" Åsly\nMixed and mastered at Thundergod Studios",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gtRDL8PNwjw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gtRDL8PNwjw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gtRDL8PNwjw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gtRDL8PNwjw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gtRDL8PNwjw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Le Regard Otaku",
+        "playlistId": "PLcCQJuPwyya3uxri7ZCiDDjMwaaVXz7DK",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "gtRDL8PNwjw"
+        },
+        "videoOwnerChannelTitle": "pellekofficial",
+        "videoOwnerChannelId": "UCtXuWXsd7TYXwX2ZNLXfojg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "oC80eLgRfSFH5JdWRS9ZxfzgFUg",
+      "id": "UExjQ1FKdVB3eXlhM3V4cmk3WkNpRERqTXdhYVZYejdESy41MzJFNEYxODEyNzA0QUUx",
+      "snippet": {
+        "publishedAt": "2016-05-29T14:36:47Z",
+        "channelId": "UCxCTP6k0VhJjpZISsj1QaSw",
+        "title": "TVアニメ「坂本ですが？」ノンテロップOP",
+        "description": "TVアニメ「坂本ですが？」\nTBSほかにて2016年4月より放送中！！\n\n★オープニングテーマ\nカスタマイZ「COOLEST」\nMV：https://www.youtube.com/watch?v=WVAiy_mu8Ds\n\n\n★公式サイト\nhttp://www.tbs.co.jp/anime/sakamoto/\n★公式Twitter\n@sakamoto_anime\n\n【あらすじ】\nクール、クーラー、クーレスト高校生の登場！\nこの物語は、とあるクール、いや、クーレストな高校生・坂本の学園生活を綴ったものである――。 入学早々、クラスの、いや学校中の注目を集める一人の生徒がいた。その名は坂本（さかもと）。\n彼にかかれば、ただの反復横跳びは、秘技「レペティションサイドステップ」へと変貌し、\n上級生からの「パシリ」は、「おもてなし」へとクラスチェンジする。\nそんな彼のクールな一挙手一投足から、目が離せない。\n\n【放送情報】\nTBS：4月7日より毎週木曜 深夜2時28分〜\nMBS：4月8日より毎週金曜 深夜3時10分〜\nCBC：4月7日より毎週木曜 深夜3時24分〜\nBS-TBS：4月9日より毎週土曜 深夜1時30分〜\nCS-TBSチャンネル1：4月17日より毎週日曜 深夜1時30分〜\n※放送日時等は変更になる可能性がございます\n\n【スタッフ情報】\n原作：佐野菜見『坂本ですが？』（KADOKAWA刊）\n監督：高松信司\nキャラクターデザイン：中嶋敦子\n撮影監督：酒井淳子\n色彩設計：佐野ひとみ\n美術監督：武藤正敏\n編集：松原理恵\n音楽：福田裕彦\n音楽制作：キングレコード\n音響制作：ダックスプロダクション\nアニメーション制作：スタジオディーン\n\n【キャスト情報】\n坂本：緑川光\n久保田吉伸：石田彰\nあっちゃん：杉田智和\nまりお：武内健\nケンケン：檜山修之\n瀬良裕也：森久保祥太郎\n黒沼あいな：堀江由衣\n藤田恵：中原麻衣\nカナちゃん：田村ゆかり\nみーちゃん：植田佳奈\n八木さん：生天目仁美\n田中さん：藤田咲\nエリカ：高橋美佳子\n森田：前野智昭\n安田：鈴木達央\n小林茂：矢部雅史\n角田先生：中田譲治\n久保田茂美：くじら\n丸山先輩：稲田徹\n8823先輩：遊佐浩二\n深瀬さん：岩田光央\n\n（C）佐野菜見・KADOKAWA/坂本ですが？製作委員会",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f8d3bW42aFY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f8d3bW42aFY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f8d3bW42aFY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/f8d3bW42aFY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/f8d3bW42aFY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Le Regard Otaku",
+        "playlistId": "PLcCQJuPwyya3uxri7ZCiDDjMwaaVXz7DK",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "f8d3bW42aFY"
+        },
+        "videoOwnerChannelTitle": "KING RECORDS",
+        "videoOwnerChannelId": "UC6KEU5-KSTszEOOnAl8ZwPQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "lxfnGiYXd305O-yHZ57Yill2Qvg",
+      "id": "UExjQ1FKdVB3eXlhM3V4cmk3WkNpRERqTXdhYVZYejdESy4zNDIxRUJGQThFRTg1QzAy",
+      "snippet": {
+        "publishedAt": "2016-02-07T09:42:31Z",
+        "channelId": "UCxCTP6k0VhJjpZISsj1QaSw",
+        "title": "Haikyuu Season 2 Opening 2",
+        "description": "LIKE AND SUBSCRIBE FOR MORE ❤️\n\n\ninstagram@logic97\ntwitter@hunterxomar11\nsnapchat@itsomarkhalifa",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7KupdWsCU4Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7KupdWsCU4Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7KupdWsCU4Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7KupdWsCU4Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7KupdWsCU4Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Le Regard Otaku",
+        "playlistId": "PLcCQJuPwyya3uxri7ZCiDDjMwaaVXz7DK",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7KupdWsCU4Y"
+        },
+        "videoOwnerChannelTitle": "Sombreromar",
+        "videoOwnerChannelId": "UCbcCsTbmXG8hzZR8CfnA68w"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "n1f8NQp5guArGqaNOPHO484hPP4",
+      "id": "UExjQ1FKdVB3eXlhM3V4cmk3WkNpRERqTXdhYVZYejdESy5CMEVBRUJERkUyNTBENTkz",
+      "snippet": {
+        "publishedAt": "2015-12-11T16:01:54Z",
+        "channelId": "UCxCTP6k0VhJjpZISsj1QaSw",
+        "title": "Yamada-kun to 7-nin no Majo - Opening Full - Lyric",
+        "description": "Todos los derechos quedan reservados para sus respectivos autores\n\nCanción: Kuchizuke Diamond\nArtista: Weaver\nAnime: Yamada-kun to 7-nin no Majo \nRomaji: http://animeasialyrics.free.fr/song_lyrics.php?id=19942\n\nEsperó que les guste, somos nuevos en esto pero nos esforzaremos para ir mejorando, gracias por ver este vídeo, no olviden suscribirse :D",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PBoaCHmvCZY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PBoaCHmvCZY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PBoaCHmvCZY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PBoaCHmvCZY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Le Regard Otaku",
+        "playlistId": "PLcCQJuPwyya3uxri7ZCiDDjMwaaVXz7DK",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PBoaCHmvCZY"
+        },
+        "videoOwnerChannelTitle": "Otaku`s music`s",
+        "videoOwnerChannelId": "UCHnghyGsFfyaDsqX1-rBHPw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "BGBGeu0bnLYiVjvMiyKQaevUlxA",
+      "id": "UExjQ1FKdVB3eXlhM3V4cmk3WkNpRERqTXdhYVZYejdESy45NkM5QURGMTI1Rjg4NDRC",
+      "snippet": {
+        "publishedAt": "2017-02-03T12:45:42Z",
+        "channelId": "UCxCTP6k0VhJjpZISsj1QaSw",
+        "title": "Blue Exorcist Season 2 -Kyoto Saga- Official Opening Song (UVERworld)",
+        "description": "Subscribe to Funimation's YouTube Channel for all your anime downunder https://weareani.me/sjvgds🔥🔥Blue Exorcist -Kyoto Saga- is live on AnimeLab! Burn your way through the first episode of season two now!!🔥🔥\n\nSubscribe to our channel for all the latest updates & videos!\n\nWebsite: http://www.animelab.com\nLike us on Facebook: http://www.facebook.com/animelab\nFollow us on Twitter: http://www.twitter.com/animelab\n\n© 2015 AnimeLab",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PzcRgzM7wk8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PzcRgzM7wk8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PzcRgzM7wk8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PzcRgzM7wk8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PzcRgzM7wk8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Le Regard Otaku",
+        "playlistId": "PLcCQJuPwyya3uxri7ZCiDDjMwaaVXz7DK",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PzcRgzM7wk8"
+        },
+        "videoOwnerChannelTitle": "animelab",
+        "videoOwnerChannelId": "UCWt3xWeVSCnVPZFdhcjFsUQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2Lb1LWGlGKw8nUxfwiTC7JkAJlc",
+      "id": "UExjQ1FKdVB3eXlhM3V4cmk3WkNpRERqTXdhYVZYejdESy5BRDg1NUY1OTY2QzgzOEM0",
+      "snippet": {
+        "publishedAt": "2016-04-07T14:50:57Z",
+        "channelId": "UCxCTP6k0VhJjpZISsj1QaSw",
+        "title": "Re:Re: - Asian Kung-Fu Generation // ERASED // Boku Dake ga Inai Machi OP",
+        "description": "I own nothing in the video, everything belongs to its rightful owners.\n\nOkay so I was mistaken about the song, this is not actually the 'new' version. It's actually the 'old' vocals mixed with the 'new' instrumental version. Sorry for the confusion. IM SORRY\n\nComments that contain spoilers will be removed. (too lazy to remove them all now lol)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/d8wBMkvtRaI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/d8wBMkvtRaI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/d8wBMkvtRaI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/d8wBMkvtRaI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/d8wBMkvtRaI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Le Regard Otaku",
+        "playlistId": "PLcCQJuPwyya3uxri7ZCiDDjMwaaVXz7DK",
+        "position": 31,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "d8wBMkvtRaI"
+        },
+        "videoOwnerChannelTitle": "H A R U K I",
+        "videoOwnerChannelId": "UCwN_ZwM2d8p_j0n00thG4yQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "X9STDEdVAUpLV3OO6dFSy_B9XOA",
+      "id": "UExjQ1FKdVB3eXlhM3V4cmk3WkNpRERqTXdhYVZYejdESy40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2015-07-14T18:26:32Z",
+        "channelId": "UCxCTP6k0VhJjpZISsj1QaSw",
+        "title": "Air Gear Opening 1 [Full]",
+        "description": "Air Gear opening 1 the full version.\r\nThe song is called Chain by the band called Back On.\r\n\r\nEdit 1:\r\nDang 40k views!\r\n\r\nEdit 2:\r\nHoly Crap 50k views?!\r\n\r\nEdit 3:\r\nDamn! 60K+ Views! That awesome!\r\n\r\nEdit 5: \r\nROFLCOPTER Got the 200k milestone BITCHEZ. \r\nITS PRINCE MONEY BITCH!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4ZYozk9gm0w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4ZYozk9gm0w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4ZYozk9gm0w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Le Regard Otaku",
+        "playlistId": "PLcCQJuPwyya3uxri7ZCiDDjMwaaVXz7DK",
+        "position": 32,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4ZYozk9gm0w"
+        },
+        "videoOwnerChannelTitle": "xXxChOzEnOnExXx",
+        "videoOwnerChannelId": "UCQlb263rGEQto01XBs1WZvw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "DUqOQe0b-ewdkfbL2tXniHQb3mw",
+      "id": "UExjQ1FKdVB3eXlhM3V4cmk3WkNpRERqTXdhYVZYejdESy44REI4QUZDRDI5MDc4Q0NF",
+      "snippet": {
+        "publishedAt": "2016-07-05T12:19:22Z",
+        "channelId": "UCxCTP6k0VhJjpZISsj1QaSw",
+        "title": "Kuroshitsuji Opening 1",
+        "description": "This is the Kuroshitsuji (Black Butler) opening one.\nI decided to upload this because Black Butler was my first, and favorite anime of all time!\nI hope you give it a chance and watch an episdoe or two! \nAll video content belongs to FUNimation. Enjoy!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ptxv3IxC8ZQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ptxv3IxC8ZQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ptxv3IxC8ZQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ptxv3IxC8ZQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ptxv3IxC8ZQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Le Regard Otaku",
+        "playlistId": "PLcCQJuPwyya3uxri7ZCiDDjMwaaVXz7DK",
+        "position": 33,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ptxv3IxC8ZQ"
+        },
+        "videoOwnerChannelTitle": "Nadia Krupilis",
+        "videoOwnerChannelId": "UC-iCPJ0a-m0qYywegztvZeA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "KiEVmX16d3S4bg-Zkx_MGYIGfc8",
+      "id": "UExjQ1FKdVB3eXlhM3V4cmk3WkNpRERqTXdhYVZYejdESy5DQjg2RDQyMEVGQkZFOEVF",
+      "snippet": {
+        "publishedAt": "2016-01-03T12:00:29Z",
+        "channelId": "UCxCTP6k0VhJjpZISsj1QaSw",
+        "title": "\"Libera Me From Hell\" with subs",
+        "description": "Libera me from Hell - Tengen Toppa Gurren Lagann\r\n\r\nRap: Tarantula (from Hi-Timez)\r\nOperetta: Kasahara Yuri\r\nLyrics: Tarantula/Traditional\r\nMusic & Arrangement: Iwasaki Taku\r\n\r\nBy popular demand, here's a link to the raw  ^^\r\nhttp://www.animewapers.com/nggallery/page-182/page/4652/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VT6LFOIofRE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VT6LFOIofRE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VT6LFOIofRE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VT6LFOIofRE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VT6LFOIofRE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Le Regard Otaku",
+        "playlistId": "PLcCQJuPwyya3uxri7ZCiDDjMwaaVXz7DK",
+        "position": 34,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VT6LFOIofRE"
+        },
+        "videoOwnerChannelTitle": "Paladin65536",
+        "videoOwnerChannelId": "UCl0on70zKs-kwr7oxCj1Dxg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fZohKMKUYiBvpSopO3gTjgFPaVY",
+      "id": "UExjQ1FKdVB3eXlhM3V4cmk3WkNpRERqTXdhYVZYejdESy4wMDkwRkI3NzExODA2MTFG",
+      "snippet": {
+        "publishedAt": "2016-04-22T11:18:27Z",
+        "channelId": "UCxCTP6k0VhJjpZISsj1QaSw",
+        "title": "Nanatsu no taizai opening 1",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8UbS2pKIyOQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8UbS2pKIyOQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8UbS2pKIyOQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8UbS2pKIyOQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8UbS2pKIyOQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Le Regard Otaku",
+        "playlistId": "PLcCQJuPwyya3uxri7ZCiDDjMwaaVXz7DK",
+        "position": 35,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8UbS2pKIyOQ"
+        },
+        "videoOwnerChannelTitle": "luis charrito",
+        "videoOwnerChannelId": "UCQGtmei4WWCUhRL7wgCl_PQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Vax7PlhEG6pNx9TtJ-NZirZi7vo",
+      "id": "UExjQ1FKdVB3eXlhM3V4cmk3WkNpRERqTXdhYVZYejdESy42MzE1QTJBMEI3NjI4Rjk5",
+      "snippet": {
+        "publishedAt": "2016-10-16T20:12:41Z",
+        "channelId": "UCxCTP6k0VhJjpZISsj1QaSw",
+        "title": "ノンテロップスペシャル版　TVアニメ「東京喰種トーキョーグール」オープニング映像 TK from 凛として時雨/unravel",
+        "description": "絶賛放送中のTVアニメ「東京喰種トーキョーグール」ノンテロップのオープニング映像公開！\n\n【Blu-ray&DVD情報】\n\n東京喰種トーキョーグール　vol.1\nBlu-ray TCBD-0385／￥8,800(税別)\nDVD　 TCED-2340／￥7,800(税別)\n2014.9.26 発売\n\n■収録内容 \n・本編：第１話～第３話 \n\n■初回生産限定特典\n・メインキャスト出演イベント優先販売抽選申込券 ほか \n\n※内容は変更となる場合がございます。 \n\n【OA情報】\nTOKYO MX：毎週木曜　24:00～\nテレビ大阪：毎週土曜　26:35～\nテレビ愛知：毎週金曜　27:05～\nTVQ九州放送：毎週土曜　26:25～\nBS Dlife：毎週金曜　26:00～\n※放送日時は変更になる場合があります。\n\n【公式サイト】\nhttp://www.marv.jp/special/tokyoghoul/\n\n【オープニングテーマ情報】\n\n■TK from 凛として時雨「unravel」\n2014.7.23 release\nTVアニメ「東京喰種トーキョーグール」オープニングテーマ\n\n◎初回生産限定盤 (CD+DVD) AICL-2704〜5 ¥2,000 (税抜)\n◎通常盤 AICL-2706 ¥1,200 (税抜)\n◎期間限定盤 AICL-2707 ¥1,300 (税抜)※石田スイ先生描き下ろしスペシャルパッケージ/TV edit収録\n\nhttp://tkofficial.jp/\n\n\nTV Animation「Tokyo Ghoul」 Opening Movie without telop",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uMeR2W19wT0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uMeR2W19wT0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uMeR2W19wT0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uMeR2W19wT0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uMeR2W19wT0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Le Regard Otaku",
+        "playlistId": "PLcCQJuPwyya3uxri7ZCiDDjMwaaVXz7DK",
+        "position": 36,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "uMeR2W19wT0"
+        },
+        "videoOwnerChannelTitle": "TokyoGhoulAnimation",
+        "videoOwnerChannelId": "UCnPah2QTR-ttsI0ftBPCkKw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tpZCmgD7dgc6ZjoJRFW0moaD_tQ",
+      "id": "UExjQ1FKdVB3eXlhM3V4cmk3WkNpRERqTXdhYVZYejdESy41NEI5MkYxNzc0MDczQUUw",
+      "snippet": {
+        "publishedAt": "2016-10-09T21:21:22Z",
+        "channelId": "UCxCTP6k0VhJjpZISsj1QaSw",
+        "title": "Re:Zero kara Hajimeru Isekai Seikatsu Ending FULL - Re：ゼロから始める異世界生活 ED 「STYX HELIX」",
+        "description": "Re: Life in a different world from zero Ending Full\nRe:Zero kara Hajimeru Isekai Seikatsu ED Full\nRe：ゼロから始める異世界生活 ED Full\n\n\nArtist : MYTH & ROID\nSong :  STYX HELIX\n\n■ Opening Theme\n\"Redo\" by Konomi Suzuki\n\"Paradisus-Paradoxum\" by MYTH & ROID\n\n■ Ending Theme\n\"STYX HELIX\" by MYTH & ROID\n\"Stay Alive\" by Emilia (Rie Takahashi)\n\n■ Insert Songs\n\"STRAIGHT BET\" by MYTH & ROID (Episode 7 Insert Song)\n\"Theater D\" by MYTH & ROID (ep 14 )\n\"Wishing\" by Rem (Inori Minase)\n\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n\nBuy it from : http://www.cdjapan.co.jp/product/ZMCZ-10605?s_ssid=e4195a5c9f249756ac\n\n\n\"Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HdQCWXh3XXU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HdQCWXh3XXU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HdQCWXh3XXU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HdQCWXh3XXU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HdQCWXh3XXU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Le Regard Otaku",
+        "playlistId": "PLcCQJuPwyya3uxri7ZCiDDjMwaaVXz7DK",
+        "position": 37,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HdQCWXh3XXU"
+        },
+        "videoOwnerChannelTitle": "Adieu",
+        "videoOwnerChannelId": "UCD576A_Is17btX9KC2jMYaA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Zs7-ynQWkqZ8DBglogx-ygI_WTY",
+      "id": "UExjQ1FKdVB3eXlhM3V4cmk3WkNpRERqTXdhYVZYejdESy5CMDU4Mjk2QjA2QTIwODZB",
+      "snippet": {
+        "publishedAt": "2017-02-18T14:02:31Z",
+        "channelId": "UCxCTP6k0VhJjpZISsj1QaSw",
+        "title": "君の名は (Kimino nawa) - なんでもないや (Nandemonaiya) ┃Cover by Raon Lee",
+        "description": "▶ You can stream and download RAON's song right here!\n* Spotify :: https://spoti.fi/2XNCAom\n* iTunes :: https://apple.co/2M2pfRN\n* Amazon mp3: :: https://amzn.to/2Y2e2mG\n\n\n☞ The romaji lyrics are below.\n☞ Subscribe to my V-log channel → https://www.youtube.com/channel/UCJVsjpZqtve-SZ11U8jmH_g\n☞Support Milk Tea for the next Cover Song of Raon → https://ko-fi.com/raonlee\n\n\nRaon's Youtube :: https://youtube.com/c/raonlee\nRaon's Twitter :: https://twitter.com/raon_leee\nRaon's Instagram :: https://instagram.com/raon_lee/\nRaon's Facebook Page :: https://www.facebook.com/RaonLeeOfficial\nRaon's Twitch :: https://www.twitch.tv/raonleetw\n\n\n〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓\nSong :: 아무것도 아니야 (Nandemonaiya, なんでもないや, It's Nothing)\nArtist :: RADWIMPS\nAnime :: 너의 이름은 (Kimino nawa, 君の名は, Your name)\n\u200b〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓\n\n\n**COMMENT**\n\nThank you for listening !\n\n\n\n\n\n▶ 한국발음가사 & English lyrics ◀\n\n후타리노아이다 토오리스기타 카제와\nFutari no aida  toorisugita kaze wa\n\n도코카라 사비시사오 하콘데키타노\ndoko kara sabishisa wo hakonde kita no\n\n나이타리시타 소노아토노소라와\nNaitari shita sono ato no sora wa\n\n야케니 스키톳테이타리시탄다\nyake ni sukitootteitari shitanda\n\n\n이츠모와 토갓테타 치치노코토바가\nItsumo wa togatteta chichi no kotoba ga\n\n쿄-와 아타타카쿠 칸지마시타\nkyou wa atatakaku kanjimashita\n\n야사시사모 에가오모 유메노카타리카타모\nYasashisa mo egao mo yume no katarikata mo\n\n시라나쿠테 젠부 키미오마네타요\nshiranakute zenbu  kimi wo maneta yo\n\n모- 스코시다케데이이 아토스코시다케데이이\nMou sukoshi dake de ii  ato sukoshi dake de ii\n\n모- 스코시다케데이이카라\nmou sukodhi dake de ii kara\n\n모- 스코시다케데이이 아토스코시다케데이이\nMou sukoshi dake de ii  ato sukoshi dake de ii\n\n모- 스코시다케 쿳츠이테이요-카\nmou sukoshi dake kuttsuite iyou ka\n\n\n보쿠라 타이무후라이야- 토키오 카케아가루쿠라이마-\nBokura TAIMU FURAIYAA toki wo kakeagaru KURAIMAA\n\n토키노카쿠렌보 하구렛코와 모-이야난다\nToki no kakurenbo  hagurekko wa mou iya nanda\n\n우레시쿠테나쿠노와 카나시쿠테와라우노와\nUreshikute naku no wa  kanashikute warau no wa\n\n키미노코코로가 키미오 오이코시탄다요\nKimi no kokoro ga  kimi wo oikoshitanda yo\n\n\n호시니마데 네갓테 테니이레타 오모챠모\nHoshi ni made negatte  te ni ireta omocha mo\n\n헤야노스밋코니 이마 코로갓테루\nheya no sumikko ni ima  korogatteru\n\n카나에타이 유메모 쿄-데 햣코데키타요\nKanaetai yume mo  kyou de hyakko dekita yo\n\n탓타 히토츠토 이츠카 코-칸 코시요-\ntatta hitotsu to itsuka  koukan koshiyou\n\n이츠모와 샤베라나이 아노코니쿄-와\nItsumo wa shaberanai ano ko ni kyou wa\n\n호-카고 마타아시타토 코에오카케타\nhoukago \"Mata ashita\" to koe wo kaketa\n\n나레나이코토모 타마니나라이이네\nNarenai koto mo tama ni nara ii ne\n\n토쿠니 아나타가 토나리니이타라\ntoku ni anata ga tonari ni itara\n\n모- 스코시다케데이이 아토스코시다케데이이\nMou sukoshi dake de ii  ato sukoshi dake de ii\n\n모- 스코시다케데이이카라\nmou sukodhi dake de ii kara\n\n모- 스코시다케데이이 아토스코시다케데이이\nMou sukoshi dake de ii  ato sukoshi dake de ii\n\n모- 스코시다케 쿳츠이테이요-요\nmou sukoshi dake kuttsuite iyou yo\n\n\n보쿠라 타이무후라이야- 키미오싯테이탄다\nBokura TAIMU FURAIYAA kimi wo shitteitanda\n\n보쿠가 보쿠노나마에오 오보에루요리 즛토마에니\nBoku ga  boku no namae wo  oboeru yori zutto mae ni\n\n\n키미노이나이 세카이니모 나니카노 이미와킷토앗테\nKimi no inai  sekai ni mo  nanika no imi wa kitto atte\n\n데모 키미노이나이 세카이나도 \nDemo kimi no inai sekai nado\n\n나츠야스미노나이 하치가츠노요-\nnatsuyasumi no nai  hachigatsu no you\n\n키미노이나이 세카이나도 와라우코토나이 산타노요-\nKimi no inai  sekai nado warau koto nai  SANTA no you\n\n키미노이나이 세카이나도\nKimi no inai  sekai nado\n\n\n보쿠라 타이무후라이야- 토키오 카케아가루쿠라이마-\nBokura TAIMU FURAIYAA toki wo kakeagaru KURAIMAA\n\n토키노카쿠렌보 하구렛코와 모- 이야난다\nToki no kakurenbo hagurekko wa mou iya nanda\n\n난데모나이야 얏파리난데모나이야\nNande mo nai ya yappari nande mo nai ya\n\n이마카라이쿠요\nIma kara iku yo\n\n\n보쿠라 타이무후라이야- 토키오 카케아가루쿠라이마-\nBokura TAIMU FURAIYAA toki wo kakeagaru KURAIMAA \n\n토키노 카쿠렌보 하구렛코와 모-이이요\nToki no kakurenbo hagurekko wa mou ii yo\n\n키미와 하데나쿠라이야- 소노나미다 토메테미타이나\nKimi wa hade na KURAIYAA sono namida tomete mitai na\n\n다케도 키미와코반다\nDakedo kimi wa kobanda\n\n코보레루마마노 나미다오미테 와캇타\nkoboreru mama no namida wo mite wakatta\n\n우레시쿠테 나쿠노와 카나시쿠테 와라우노와\nUreshikute naku no wa kanashikute warau no wa\n\n보쿠노코코로가 보쿠오오이코시탄다요\nBoku no kokoro ga boku wo oikoshitanda yo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lMqMAOHAhmM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lMqMAOHAhmM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lMqMAOHAhmM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lMqMAOHAhmM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lMqMAOHAhmM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Le Regard Otaku",
+        "playlistId": "PLcCQJuPwyya3uxri7ZCiDDjMwaaVXz7DK",
+        "position": 38,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lMqMAOHAhmM"
+        },
+        "videoOwnerChannelTitle": "Raon Lee",
+        "videoOwnerChannelId": "UCQn1FqrR2OCjSe6Nl4GlVHw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7bCpsMybG9qQnmWcqdAsJrNB_8E",
+      "id": "UExjQ1FKdVB3eXlhM3V4cmk3WkNpRERqTXdhYVZYejdESy45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2015-07-14T18:29:20Z",
+        "channelId": "UCxCTP6k0VhJjpZISsj1QaSw",
+        "title": "TRUSTRICK / 未来形Answer【Music Video(short ver.)】",
+        "description": "TRUSTRICK (神田沙也加(Vo) x Billy(Gt))\n「未来形Answer」MV\n\n1st E.P.『未来形Answer E.P.』\n2015.05.05 Release\n◆Type-A　COZP-1049～50(CD+DVD) ￥1,667＋税\n◆Type-B　COCP-39111(CD) ￥1,389＋税\n\n[CD]【全6曲収録】\n1.未来形Answer　日本テレビほかアニメ「俺物語!!」オープニングテーマ\n2.highness\n3.as one (TRUST TOUR Version)\n4.FLYING FAFNIR (TRUST TOUR Version)\n5.未来形Answer (Instrumental)\n6.未来形Answer (Anime OP Version)\n[DVD]\n1.未来形Answer (Music Video)\n2.未来形Answer (Making Clip)\n\n◆TRUSTRICK Official Site◆ http://www.trustrick.jp/\n◆LABEL Official Site◆ http://columbia.jp/trustrick/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/m_7u3UknLUg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/m_7u3UknLUg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/m_7u3UknLUg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/m_7u3UknLUg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/m_7u3UknLUg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Le Regard Otaku",
+        "playlistId": "PLcCQJuPwyya3uxri7ZCiDDjMwaaVXz7DK",
+        "position": 39,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "m_7u3UknLUg"
+        },
+        "videoOwnerChannelTitle": "TRUSTRICK",
+        "videoOwnerChannelId": "UCi8Pshbz-0956DAAUHjNHew"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-OWHeoVQppxkHxsPd8DBRfvj344",
+      "id": "UExjQ1FKdVB3eXlhM3V4cmk3WkNpRERqTXdhYVZYejdESy5DQTIzMEQyQTJBNDA4ODdF",
+      "snippet": {
+        "publishedAt": "2016-10-08T15:12:47Z",
+        "channelId": "UCxCTP6k0VhJjpZISsj1QaSw",
+        "title": "Taneda Risa - Wareta Ringo (Shinsekai Yori Ending)",
+        "description": "!!!!!!!THERE MIGHT BE SPOILERS IN THE COMMENTS!!!!!!!\nTaneda Risa - Wareta Ringo. The ending song of the Shinsekai Yori anime.\nI DO NOT OWN ANYTHING IN THIS VIDEO.\nEnjoy the good music! c:",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/W5ZIZ6v7egU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/W5ZIZ6v7egU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/W5ZIZ6v7egU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/W5ZIZ6v7egU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/W5ZIZ6v7egU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Le Regard Otaku",
+        "playlistId": "PLcCQJuPwyya3uxri7ZCiDDjMwaaVXz7DK",
+        "position": 40,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "W5ZIZ6v7egU"
+        },
+        "videoOwnerChannelTitle": "Razvan Avram",
+        "videoOwnerChannelId": "UCmmUpbn1cxa0wjzwYDzZ2EA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "AgYKEscd2Rs08YwKKedVIAW4lf8",
+      "id": "UExjQ1FKdVB3eXlhM3V4cmk3WkNpRERqTXdhYVZYejdESy5DNzE1RjZEMUZCMjA0RDBB",
+      "snippet": {
+        "publishedAt": "2015-07-14T18:32:14Z",
+        "channelId": "UCxCTP6k0VhJjpZISsj1QaSw",
+        "title": "ChihayaFuru Opening 1 Full",
+        "description": "Canción: YOUTHFUL\nArtista: 99radioservice\n\nEste es el opening numero 1 completo del animé ChihayaFuru :3 está canción es muy buena y el animé tambien...  se los recomiento mucho! :D   SI TE GUSTÓ DALE LIKE  & SUSCRIBANSE",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/u6dHVsDFbdU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/u6dHVsDFbdU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/u6dHVsDFbdU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/u6dHVsDFbdU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/u6dHVsDFbdU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Le Regard Otaku",
+        "playlistId": "PLcCQJuPwyya3uxri7ZCiDDjMwaaVXz7DK",
+        "position": 41,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "u6dHVsDFbdU"
+        },
+        "videoOwnerChannelTitle": "Ross Jackson",
+        "videoOwnerChannelId": "UCYDcPWOLifGmZktjOGh4RMw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HMjxP1XtPDLex0AeCepkaFVzKtE",
+      "id": "UExjQ1FKdVB3eXlhM3V4cmk3WkNpRERqTXdhYVZYejdESy5DMkU4NTY1QUFGQTYwMDE3",
+      "snippet": {
+        "publishedAt": "2015-07-14T18:34:39Z",
+        "channelId": "UCxCTP6k0VhJjpZISsj1QaSw",
+        "title": "Deleted video",
+        "description": "This video is unavailable.",
+        "thumbnails": {},
+        "channelTitle": "Le Regard Otaku",
+        "playlistId": "PLcCQJuPwyya3uxri7ZCiDDjMwaaVXz7DK",
+        "position": 42,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2uq34TeWEdQ"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "AaY3ki6zoqz4cnyZHqVnK4yCuS4",
+      "id": "UExjQ1FKdVB3eXlhM3V4cmk3WkNpRERqTXdhYVZYejdESy44Mjc5REFBRUE2MTdFRDU0",
+      "snippet": {
+        "publishedAt": "2015-07-14T18:34:39Z",
+        "channelId": "UCxCTP6k0VhJjpZISsj1QaSw",
+        "title": "▶ Full Metal Alchemist  Brotherhood- Opening 4 HD",
+        "description": "Please leave a like and a comment, SUBSRIBE.\nENJOYYYY :3",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KMZBauH47Jo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KMZBauH47Jo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KMZBauH47Jo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KMZBauH47Jo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KMZBauH47Jo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Le Regard Otaku",
+        "playlistId": "PLcCQJuPwyya3uxri7ZCiDDjMwaaVXz7DK",
+        "position": 43,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KMZBauH47Jo"
+        },
+        "videoOwnerChannelTitle": "LombaxGirl",
+        "videoOwnerChannelId": "UCH0wGPFbDy81bBKPxqHeYwQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Nv7Vr1Uzth_nzrx1pOqCtva_618",
+      "id": "UExjQ1FKdVB3eXlhM3V4cmk3WkNpRERqTXdhYVZYejdESy45RjNFMDhGQ0Q2RkFCQTc1",
+      "snippet": {
+        "publishedAt": "2015-07-14T18:37:01Z",
+        "channelId": "UCxCTP6k0VhJjpZISsj1QaSw",
+        "title": "Bakuman. 2 - Opening [HD 720p]",
+        "description": "Bakuman. 2 - Season 2, Opening 1 - \"Dream of Life\" by Shouhei Itou | HD 720p",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BnEHZ8bi5Zk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BnEHZ8bi5Zk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BnEHZ8bi5Zk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BnEHZ8bi5Zk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BnEHZ8bi5Zk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Le Regard Otaku",
+        "playlistId": "PLcCQJuPwyya3uxri7ZCiDDjMwaaVXz7DK",
+        "position": 44,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BnEHZ8bi5Zk"
+        },
+        "videoOwnerChannelTitle": "Baku man",
+        "videoOwnerChannelId": "UCfL9MvV1H244nJU228WXlMg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "A420KwhiQocj12w1z4e_03KF-Ck",
+      "id": "UExjQ1FKdVB3eXlhM3V4cmk3WkNpRERqTXdhYVZYejdESy40QTA3NTU2RkM1QzlCMzYx",
+      "snippet": {
+        "publishedAt": "2015-07-14T18:37:41Z",
+        "channelId": "UCxCTP6k0VhJjpZISsj1QaSw",
+        "title": "Beelzebub Opening 2 - HD",
+        "description": "Song: Hajimaru no wa - Sayonara\n Anime: Beelzebub\n\nThanks for watch :)\n\nMy channel have videos on various subjects, both animes as games, musics, and eventually showing a bit about the place I live, so if you want to enroll, would be very happy!\n\nRecommended; Poleshadow - Aliens Take Me Away\nLink: https://www.youtube.com/watch?v=x27aKvO2XJs\ufeff",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MQ2wWTAO5B4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MQ2wWTAO5B4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MQ2wWTAO5B4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MQ2wWTAO5B4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MQ2wWTAO5B4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Le Regard Otaku",
+        "playlistId": "PLcCQJuPwyya3uxri7ZCiDDjMwaaVXz7DK",
+        "position": 45,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "MQ2wWTAO5B4"
+        },
+        "videoOwnerChannelTitle": "Gabriel Tozzi",
+        "videoOwnerChannelId": "UCg-ca0pbS8AQyerDVSpSc6Q"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "v00CmRLTalvlVuwY8u4MMO1Cf84",
+      "id": "UExjQ1FKdVB3eXlhM3V4cmk3WkNpRERqTXdhYVZYejdESy4xOTEzQzhBQzU3MDNDNjcz",
+      "snippet": {
+        "publishedAt": "2015-07-14T18:38:27Z",
+        "channelId": "UCxCTP6k0VhJjpZISsj1QaSw",
+        "title": "Durarara opening 1 lyrics [Full Version English Lyrics In Desc.]",
+        "description": "English lyrics: \nAs the treacherous sunset\nCuts through\nThe annoying beads of sweat,\nThe machine shouts like it’s singing out.\nBlow up louder!\nThe quiet fairy is over there.\nBlow up louder!\nAtonement is a shard of broken love.\nAh, the morning sun rises, yeah!\nThere, right between the buildings!\nIf you believe now, you can change.\nThat dream of yours isn’t meaningless.\nThere are no more travelers here.\nAs through releasing\nAll of these days that give off déjà vu,\nThe machine runs through into the dawn.\nFairyride!\nThe fairy stepped on the acceleration.\nFairyride!\nShe doesn’t let the tears that she can’t wipe away flow down.\nAh, the morning sun rises, yeah!\nIt comes out of the darkness!\nIf you feel it now, you’ll be able to see it.\nThat tomorrow won’t be meaningless.\nAh, the morning sun rises, yeah!\nOver the water horizon!\nIf you believe now, you can change.\nThat light isn’t meaningless.\nAh, there’s something that only we can see.\nI’m sure it’s something that no one in the world can take from us.\nWe could think that it has no meaning,\nBut even so, I’m sure our goal must lie over there.\nThat goal isn’t meaningless!\nOh, the morning sun rises, yeah!\nIt comes out of the darkness!\nIf you feel it now, you’ll be able to see it.\nThat tomorrow won’t be meaningless.\nAh, the morning sun rises, yeah!\nOver the water horizon!\nIf you believe now, you can change.\nThat light isn’t meaningless.\n\n\nI don't own anything is this video not the song, pictures, or anything of that sort this is just for people to enjoy. So enjoy ^.^",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sk3ZJslK2ks/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sk3ZJslK2ks/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sk3ZJslK2ks/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sk3ZJslK2ks/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sk3ZJslK2ks/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Le Regard Otaku",
+        "playlistId": "PLcCQJuPwyya3uxri7ZCiDDjMwaaVXz7DK",
+        "position": 46,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "sk3ZJslK2ks"
+        },
+        "videoOwnerChannelTitle": "1013cloud",
+        "videoOwnerChannelId": "UCuif0KUFM2aqyrDXo54oOPQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Kkvdw4ryYcxKuuAo1c7C35e0cDw",
+      "id": "UExjQ1FKdVB3eXlhM3V4cmk3WkNpRERqTXdhYVZYejdESy5DRUQwODMxQzUyRTlGRkY3",
+      "snippet": {
+        "publishedAt": "2015-07-14T18:40:34Z",
+        "channelId": "UCxCTP6k0VhJjpZISsj1QaSw",
+        "title": "High School Of The Dead Op 1 HD",
+        "description": "Is The Opening Of  The Best New Anime Watch And Rate. It's my favorite anime Of the summer {High School Of The Dead Op 1} thnx for the  views :)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Pb0N855lp_4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Pb0N855lp_4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Pb0N855lp_4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Pb0N855lp_4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Pb0N855lp_4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Le Regard Otaku",
+        "playlistId": "PLcCQJuPwyya3uxri7ZCiDDjMwaaVXz7DK",
+        "position": 47,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Pb0N855lp_4"
+        },
+        "videoOwnerChannelTitle": "Andriel TheNighfall",
+        "videoOwnerChannelId": "UCOy5DzrOdgL3-sCdrqPxFSg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WQIkC8CTlFzeZMEjN15wIdeTgb4",
+      "id": "UExjQ1FKdVB3eXlhM3V4cmk3WkNpRERqTXdhYVZYejdESy4yQjZFRkExQjFGODk3RUFD",
+      "snippet": {
+        "publishedAt": "2015-07-14T18:41:18Z",
+        "channelId": "UCxCTP6k0VhJjpZISsj1QaSw",
+        "title": "Kore Wa Zombie Desu Ka Opening HD season 1",
+        "description": "Opening of Kore wa Zombie Desu Ka (Season 1) HD      I do not own anything!\r\n\r\n\"Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KpDstvOgL7s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KpDstvOgL7s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KpDstvOgL7s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KpDstvOgL7s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KpDstvOgL7s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Le Regard Otaku",
+        "playlistId": "PLcCQJuPwyya3uxri7ZCiDDjMwaaVXz7DK",
+        "position": 48,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KpDstvOgL7s"
+        },
+        "videoOwnerChannelTitle": "mxpeace",
+        "videoOwnerChannelId": "UCorevodxxQgB6w5yO8N43HQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "48y1bhAIf36I6wgRI4rkAbIECqY",
+      "id": "UExjQ1FKdVB3eXlhM3V4cmk3WkNpRERqTXdhYVZYejdESy5FMjFERkYxMjI2NjkyMjg5",
+      "snippet": {
+        "publishedAt": "2016-07-11T11:40:14Z",
+        "channelId": "UCxCTP6k0VhJjpZISsj1QaSw",
+        "title": "Mirai Nikki Ending Full (Blood Teller)",
+        "description": "DOWNLOAD UPDATE: Click here for OP Single(s) Download:http://crazy-cake.blogspot.com/2011/10/mirai-nikki-op-single-kuusou-mesorogiwi.html",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pffz3UqKnWU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pffz3UqKnWU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pffz3UqKnWU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pffz3UqKnWU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Le Regard Otaku",
+        "playlistId": "PLcCQJuPwyya3uxri7ZCiDDjMwaaVXz7DK",
+        "position": 49,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pffz3UqKnWU"
+        },
+        "videoOwnerChannelTitle": "Jackal Bug",
+        "videoOwnerChannelId": "UCMgchmU41rZY2QizSzlJRfQ"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 121,
+    "resultsPerPage": 50
+  }
+}

@@ -1,0 +1,44 @@
+.topnav a {
+    color: white;
+    padding: 1rem;
+    text-decoration: none;
+    font-size: 40px;
+    display: block;
+}
+
+.topnav a img {
+    width: 3rem;
+    overflow: hidden;
+}
+
+.topnav {
+    display: flex;
+    align-items: center;
+    width: 100vw;
+    height: fit-content;
+    padding: 0.5rem;
+}
+
+#myLinks a {
+    font-size: 2rem;
+    margin-right: 4%;
+}
+
+#myLinks a:hover {
+    background: white;
+    color: black;
+    box-shadow: none;
+    border-radius: 10px;
+}
+
+#myLinks {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.logoDesktop {
+    padding: 0;
+}
+

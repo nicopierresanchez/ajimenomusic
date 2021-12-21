@@ -1,0 +1,28 @@
+body {
+    background-image: url(/assets/images/bg.jpg);
+    min-height: 100vh;
+    min-width: 100vw;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg {
+    background: linear-gradient(to left top, #910000, #4e0101 5%, rgb(10, 10, 10) 20%, black 50%,rgb(12, 12, 12) 80%,#000566 95%, #000aac);
+    min-height: 100vh;
+    min-width: 100vw;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 50%;
+}
+.main {
+    top: 0;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+.invert { filter: invert(100%); }
